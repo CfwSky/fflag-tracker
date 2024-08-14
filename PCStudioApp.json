@@ -6581,6 +6581,12 @@
     "DFIntTeleportV2ForTeleportAsyncPartyPerTenThousand2_PlaceFilter": "10000;18444772531;18445293021",
     "DFIntTeleportV2ForPartyPerTenThousand2_PlaceFilter": "10000;18444772531;18445293021",
     "FFlagUIBloxPlayerTileAutomaticSizeXY_v2_Rollout": "true;30;2024-08-14T17:09:18",
+    "FFlagLazyLoadLegacyAppRoutes_Rollout": "true;30;2024-08-14T17:13:15",
+    "FIntDeviceIntegrityNativeTimeoutMilliseconds_Rollout": "5000;60;2024-08-14T17:13:45",
+    "DFFlagHttpServiceInsightMetricsEnabled2_Rollout": "true;30;2024-08-14T17:14:26",
+    "FFlagLooksTileSeeAllFooterBottomPadding_Rollout": "true;60;2024-08-14T17:14:30",
+    "DFIntTeleportV2ForTeleportAsyncPartyPerTenThousand2_Rollout": "10000;60;2024-08-14T17:15:08",
+    "DFFlagHttpServiceInsightMetricsDomainsEnabled_Rollout": "true;30;2024-08-14T17:15:57",
     "DFFlagEnableRemoteProfiling": true,
     "DFFlagGenerateMeshLOD_Fix1": true,
     "DFFlagGoodbyeChoiceActiveProperty": true,
@@ -7329,8 +7335,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "2ed15baa7849c48706dfc5b5ca4a22d8fbbf8cc0",
-    "DFStringFlagRepoGitHashDynamicString": "2ed15baa7849c48706dfc5b5ca4a22d8fbbf8cc0",
-    "FStringFlipTimeStampFastString": "2024-08-14T17:10:45.623Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:10:45.623Z"
+    "FStringFlagRepoGitHashFastString": "6b9d4556241e191ddd14a9e3c95d422ea68fde78",
+    "DFStringFlagRepoGitHashDynamicString": "6b9d4556241e191ddd14a9e3c95d422ea68fde78",
+    "FStringFlipTimeStampFastString": "2024-08-14T17:16:38.331Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:16:38.331Z"
 }
