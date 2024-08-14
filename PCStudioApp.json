@@ -6645,6 +6645,7 @@
     "FFlagConvexRayCast3": true,
     "DFIntBadgeServiceMaximumBadgeGetCount_PlaceFilter": "100;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480;17427651911;17332573759;17811009787;18262641901;18320910606;18724874957;18566529930;18728438729",
     "DFIntBadgeServiceMaximumBadgeGetCount_Rollout": "10;60;2024-08-14T22:18:30",
+    "FFlagWorldDoesNotDependOnSolver_Rollout": "true;60;2024-08-14T22:22:23",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7400,8 +7401,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "a3d485890c92a6cbc220839a6371e9ca75d7ecb1",
-    "DFStringFlagRepoGitHashDynamicString": "a3d485890c92a6cbc220839a6371e9ca75d7ecb1",
-    "FStringFlipTimeStampFastString": "2024-08-14T22:19:12.898Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:19:12.898Z"
+    "FStringFlagRepoGitHashFastString": "f7b6545304781e9acd41bda7bce9cb743663f5a8",
+    "DFStringFlagRepoGitHashDynamicString": "f7b6545304781e9acd41bda7bce9cb743663f5a8",
+    "FStringFlipTimeStampFastString": "2024-08-14T22:23:11.661Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:23:11.661Z"
 }

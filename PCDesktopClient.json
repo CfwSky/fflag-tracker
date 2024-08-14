@@ -6635,7 +6635,6 @@
     "FFlagLuaAppHideTileMetadata_Rollout": "true;30;2024-08-14T21:46:31",
     "FFlagUseNewLoadStreamAnimationAPI": true,
     "FFlagScreenshotsSaveToDeviceToast_v2_Rollout": "true;60;2024-08-14T21:56:13",
-    "DFIntBadgeServiceMaximumBadgeGetCount": 100,
     "FFlagCapturesAddStopwatchTrackingForHotkey_Rollout": "true;60;2024-08-14T21:57:53",
     "FFlagAddContentFeedProfileNavigation_v2_Rollout": "true;60;2024-08-14T22:00:48",
     "DFFlagFrameTimeJitterMedians2_Rollout": "true;60;2024-08-14T22:03:43",
@@ -6644,6 +6643,9 @@
     "DFFlagTaskLibParallelDeferDelayWait": true,
     "FFlagOpenVngShopForVngRobuxPurchaseV3": true,
     "FFlagConvexRayCast3": true,
+    "DFIntBadgeServiceMaximumBadgeGetCount_PlaceFilter": "100;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480;17427651911;17332573759;17811009787;18262641901;18320910606;18724874957;18566529930;18728438729",
+    "DFIntBadgeServiceMaximumBadgeGetCount_Rollout": "10;60;2024-08-14T22:18:30",
+    "FFlagWorldDoesNotDependOnSolver_Rollout": "true;60;2024-08-14T22:22:23",
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
@@ -7079,8 +7081,8 @@
     "FFlagSocialAddExperienceRoutes_v3": true,
     "FFlagUniversalAppCsat4": true,
     "FFlagWinEnableCVersionLoadCheck": true,
-    "FStringFlagRepoGitHashFastString": "9b3c2ea226f93e58f161193ed359075ddb5ca704",
-    "DFStringFlagRepoGitHashDynamicString": "9b3c2ea226f93e58f161193ed359075ddb5ca704",
-    "FStringFlipTimeStampFastString": "2024-08-14T22:17:45.332Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:17:45.332Z"
+    "FStringFlagRepoGitHashFastString": "f7b6545304781e9acd41bda7bce9cb743663f5a8",
+    "DFStringFlagRepoGitHashDynamicString": "f7b6545304781e9acd41bda7bce9cb743663f5a8",
+    "FStringFlipTimeStampFastString": "2024-08-14T22:23:11.661Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:23:11.661Z"
 }
