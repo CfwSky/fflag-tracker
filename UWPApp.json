@@ -6608,6 +6608,9 @@
     "FFlagMSPhase02": true,
     "FFlagMSPhase02FixCategory": true,
     "FFlagCLI115093": true,
+    "FFlagVoiceChatProperlyDisableOldAutoRejoin": false,
+    "FFlagAnalyticsGlobalVarRefactorV4_Rollout": "true;60;2024-08-14T18:35:05",
+    "DFIntHttpServiceInsightMetricsUniverseRolloutPercentage_Rollout": "10;30;2024-08-14T18:35:23",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -6803,8 +6806,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "7543786b196b32f4c33c90d1c04e0a33b7a138c8",
-    "DFStringFlagRepoGitHashDynamicString": "7543786b196b32f4c33c90d1c04e0a33b7a138c8",
-    "FStringFlipTimeStampFastString": "2024-08-14T18:32:31.039Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:32:31.039Z"
+    "FStringFlagRepoGitHashFastString": "5873daa531d21a644001583d8e2cae4849d28d43",
+    "DFStringFlagRepoGitHashDynamicString": "5873daa531d21a644001583d8e2cae4849d28d43",
+    "FStringFlipTimeStampFastString": "2024-08-14T18:37:16.857Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:37:16.857Z"
 }
