@@ -6612,8 +6612,6 @@
     "FFlagAXEnableAvatarDataRefreshV3": true,
     "FFlagEnableSocialCaptureTakenIXPLayer": true,
     "FFlagAXRefactorGridItemHeightGetter": true,
-    "FFlagSaferCoreTeleportGuiRobloxGuiChecks_Rollout": "true;60;2024-08-14T20:32:36",
-    "DFFlagTaskLibParallelDeferDelayWait_Rollout": "true;60;2024-08-14T20:39:32",
     "FFlagConvexRayCast3_Rollout": "true;60;2024-08-14T20:43:56",
     "FFlagFixDropDownVisibility": true,
     "FFlagFixHealthDesync": true,
@@ -6643,6 +6641,9 @@
     "FFlagCapturesAddStopwatchTrackingForHotkey_Rollout": "true;60;2024-08-14T21:57:53",
     "FFlagAddContentFeedProfileNavigation_v2_Rollout": "true;60;2024-08-14T22:00:48",
     "DFFlagFrameTimeJitterMedians2_Rollout": "true;60;2024-08-14T22:03:43",
+    "FFlagSaferCoreTeleportGuiRobloxGuiChecks": true,
+    "FFlagSimSolverAeroUsePackedData_Rollout": "true;60;2024-08-14T22:08:45",
+    "DFFlagTaskLibParallelDeferDelayWait": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -6838,8 +6839,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "161172cf85a7d07a6619e26f85516b546d2aaa1d",
-    "DFStringFlagRepoGitHashDynamicString": "161172cf85a7d07a6619e26f85516b546d2aaa1d",
-    "FStringFlipTimeStampFastString": "2024-08-14T22:05:04.480Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:05:04.480Z"
+    "FStringFlagRepoGitHashFastString": "0aa108e4e3357bfde9b47b9b037793c3d8bfc5aa",
+    "DFStringFlagRepoGitHashDynamicString": "0aa108e4e3357bfde9b47b9b037793c3d8bfc5aa",
+    "FStringFlipTimeStampFastString": "2024-08-14T22:14:28.916Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:14:28.916Z"
 }
