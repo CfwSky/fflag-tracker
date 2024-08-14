@@ -6613,6 +6613,7 @@
     "DFIntHttpServiceInsightMetricsUniverseRolloutPercentage_Rollout": "10;30;2024-08-14T18:35:23",
     "FFlagAppChatLayoutAdjustment_Rollout": "true;60;2024-08-14T18:38:34",
     "FFlagAXEnableAvatarDataRefreshV3_Rollout": "true;60;2024-08-14T18:40:38",
+    "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "100;60;2024-08-14T18:42:34",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -7277,11 +7278,11 @@
     "FFlagExplorerPropertiesUseStyledObject": true,
     "FFlagAXAccessoryAdjustment": true,
     "DFFlagBadgeServiceEnableCheckUserBadges429Check": true,
-    "FFlagMaterialGeneratorNewServiceAsyncApi_Rollout": "true;60;2024-08-14T17:06:33",
     "DFFlagCLI64234Metrics_Rollout": "false;60;2024-08-14T17:24:39",
     "FFlagExplorerPackageIconIxpExperimentation2": true,
     "FFlagComponentizeMaterialGenerator": true,
     "FFlagMaterialGeneratorNewUI4": true,
+    "FFlagMaterialGeneratorNewServiceAsyncApi": true,
     "FFlagRenderEnableGlobalInstancingMetal": true,
     "FFlagFaceAnimatorGuardVideoAnimationEnabled": true,
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": true,
@@ -7365,8 +7366,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "9918213cf0f56cf3fc5ab7b7b16b2cf7fc66072a",
-    "DFStringFlagRepoGitHashDynamicString": "9918213cf0f56cf3fc5ab7b7b16b2cf7fc66072a",
-    "FStringFlipTimeStampFastString": "2024-08-14T18:41:33.560Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:41:33.560Z"
+    "FStringFlagRepoGitHashFastString": "f7161b859f43f5607cced323331b74529fefc85a",
+    "DFStringFlagRepoGitHashDynamicString": "f7161b859f43f5607cced323331b74529fefc85a",
+    "FStringFlipTimeStampFastString": "2024-08-14T18:43:42.954Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:43:42.954Z"
 }
