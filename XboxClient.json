@@ -6554,7 +6554,6 @@
     "DFFlagPreserveResumeValue_Rollout": "true;60;2024-08-14T16:08:01",
     "DFFlagGuiLayerStrongInputEnded_Rollout": "true;60;2024-08-14T16:08:58",
     "DFFlagModuleStateDelayedRelease_Rollout": "true;60;2024-08-14T16:14:45",
-    "FFlagLuaAppRequestFetchStatusReducer_Rollout": "true;30;2024-08-14T16:19:22",
     "DFFlagReportDeviceInputCreationToEventIngest_Rollout": "true;60;2024-08-14T16:27:10",
     "FFlagAppChatWideModeRightContainerClipsDescendants_Rollout": "true;60;2024-08-14T16:27:30",
     "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "10;30;2024-08-14T16:28:36",
@@ -6586,6 +6585,12 @@
     "DFFlagHttpServiceInsightMetricsEnabled2_Rollout": "true;30;2024-08-14T17:14:26",
     "FFlagLooksTileSeeAllFooterBottomPadding_Rollout": "true;60;2024-08-14T17:14:30",
     "DFIntTeleportV2ForTeleportAsyncPartyPerTenThousand2_Rollout": "10000;60;2024-08-14T17:15:08",
+    "DFFlagHttpServiceInsightMetricsDomainsEnabled_Rollout": "true;30;2024-08-14T17:15:57",
+    "FIntVoiceChatPerfSensitiveSamplingPopulationThousandth_Rollout": "50;60;2024-08-14T17:17:48",
+    "FIntVoiceChatPerfSensitiveTelemetryIntervalSeconds_Rollout": "-1;60;2024-08-14T17:18:30",
+    "FFlagReplaceWaitForChildDependancy2963_Rollout": "true;60;2024-08-14T17:19:22",
+    "FFlagVoiceChatRobloxAudioDeviceUpdateRecordedBufferTelemetryEnabled_Rollout": "true;60;2024-08-14T17:19:41",
+    "FFlagLuaAppRequestFetchStatusReducer": true,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -6885,8 +6890,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "b0fef9fb3bd6234a02a9198f75936e3e270a034d",
-    "DFStringFlagRepoGitHashDynamicString": "b0fef9fb3bd6234a02a9198f75936e3e270a034d",
-    "FStringFlipTimeStampFastString": "2024-08-14T17:16:01.994Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:16:01.994Z"
+    "FStringFlagRepoGitHashFastString": "43b9d923a2f46c88fefa3d58a7d7f87667722577",
+    "DFStringFlagRepoGitHashDynamicString": "43b9d923a2f46c88fefa3d58a7d7f87667722577",
+    "FStringFlipTimeStampFastString": "2024-08-14T17:22:01.793Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:22:01.793Z"
 }
