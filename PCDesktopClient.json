@@ -6611,6 +6611,7 @@
     "FFlagVoiceChatProperlyDisableOldAutoRejoin": false,
     "FFlagAnalyticsGlobalVarRefactorV4_Rollout": "true;60;2024-08-14T18:35:05",
     "DFIntHttpServiceInsightMetricsUniverseRolloutPercentage_Rollout": "10;30;2024-08-14T18:35:23",
+    "FFlagAppChatLayoutAdjustment_Rollout": "true;60;2024-08-14T18:38:34",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": true,
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": true,
     "FFlagGpuGeometryManager13": true,
@@ -7047,8 +7048,8 @@
     "FFlagSocialAddExperienceRoutes_v3": true,
     "FFlagUniversalAppCsat4": true,
     "FFlagWinEnableCVersionLoadCheck": true,
-    "FStringFlagRepoGitHashFastString": "b9435fba821bc23d22c4ea35c91b9b2818721d3e",
-    "DFStringFlagRepoGitHashDynamicString": "b9435fba821bc23d22c4ea35c91b9b2818721d3e",
-    "FStringFlipTimeStampFastString": "2024-08-14T18:36:17.071Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:36:17.071Z"
+    "FStringFlagRepoGitHashFastString": "e9af2d503882a06202928c028a999c352e9cbc14",
+    "DFStringFlagRepoGitHashDynamicString": "e9af2d503882a06202928c028a999c352e9cbc14",
+    "FStringFlipTimeStampFastString": "2024-08-14T18:39:48.295Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:39:48.295Z"
 }

@@ -6611,6 +6611,8 @@
     "FFlagVoiceChatProperlyDisableOldAutoRejoin": false,
     "FFlagAnalyticsGlobalVarRefactorV4_Rollout": "true;60;2024-08-14T18:35:05",
     "DFIntHttpServiceInsightMetricsUniverseRolloutPercentage_Rollout": "10;30;2024-08-14T18:35:23",
+    "FFlagAppChatLayoutAdjustment_Rollout": "true;60;2024-08-14T18:38:34",
+    "FFlagAXEnableAvatarDataRefreshV3_Rollout": "true;60;2024-08-14T18:40:38",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -7363,8 +7365,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "5873daa531d21a644001583d8e2cae4849d28d43",
-    "DFStringFlagRepoGitHashDynamicString": "5873daa531d21a644001583d8e2cae4849d28d43",
-    "FStringFlipTimeStampFastString": "2024-08-14T18:37:16.857Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:37:16.857Z"
+    "FStringFlagRepoGitHashFastString": "9918213cf0f56cf3fc5ab7b7b16b2cf7fc66072a",
+    "DFStringFlagRepoGitHashDynamicString": "9918213cf0f56cf3fc5ab7b7b16b2cf7fc66072a",
+    "FStringFlipTimeStampFastString": "2024-08-14T18:41:33.560Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:41:33.560Z"
 }
