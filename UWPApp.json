@@ -6579,6 +6579,8 @@
     "FFlagLuaAppRefactorNextTokenRefresh_Rollout": "true;30;2024-08-14T17:00:00",
     "DFFlagWindowsClipboardLockupFix": true,
     "DFIntTeleportV2ForTeleportAsyncPartyPerTenThousand2_PlaceFilter": "10000;18444772531;18445293021",
+    "DFIntTeleportV2ForPartyPerTenThousand2_PlaceFilter": "10000;18444772531;18445293021",
+    "FFlagUIBloxPlayerTileAutomaticSizeXY_v2_Rollout": "true;30;2024-08-14T17:09:18",
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -6775,8 +6777,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "66f7d820aded8676f380924f5fd4f94ef0b9121b",
-    "DFStringFlagRepoGitHashDynamicString": "66f7d820aded8676f380924f5fd4f94ef0b9121b",
-    "FStringFlipTimeStampFastString": "2024-08-14T17:04:00.111Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:04:00.111Z"
+    "FStringFlagRepoGitHashFastString": "2ed15baa7849c48706dfc5b5ca4a22d8fbbf8cc0",
+    "DFStringFlagRepoGitHashDynamicString": "2ed15baa7849c48706dfc5b5ca4a22d8fbbf8cc0",
+    "FStringFlipTimeStampFastString": "2024-08-14T17:10:45.623Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:10:45.623Z"
 }
