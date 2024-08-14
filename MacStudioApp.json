@@ -6255,7 +6255,6 @@
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": true,
     "FFlagRemoveKickWhitespaceSub": true,
     "SupportRestartLuaAppNotification": true,
-    "FIntWinBackgroundDownloadUpdatesHundredthPercent": 1000,
     "FFlagRegisterTerminationCrashHandler": true,
     "FFlagLuaAppGameDetailLockState": true,
     "DFFlagCLI111655": true,
@@ -7409,8 +7408,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "2d4bff42be3b730cbb69280050251bb6539a9b5f",
-    "DFStringFlagRepoGitHashDynamicString": "2d4bff42be3b730cbb69280050251bb6539a9b5f",
-    "FStringFlipTimeStampFastString": "2024-08-14T22:28:19.283Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:28:19.283Z"
+    "FStringFlagRepoGitHashFastString": "01372a065012da67af869b622ac3fc3997c88f72",
+    "DFStringFlagRepoGitHashDynamicString": "01372a065012da67af869b622ac3fc3997c88f72",
+    "FStringFlipTimeStampFastString": "2024-08-14T22:33:33.176Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:33:33.176Z"
 }

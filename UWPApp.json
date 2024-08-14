@@ -5922,7 +5922,6 @@
     "FFlagAXNewColorPickerPalette": true,
     "FFlagSimSolverConsolidatePerfTelemetrySendLogic": true,
     "DFIntWindowsMinimumClientVersion": 630,
-    "FFlagWinBackgroundDownloadUpdates": true,
     "FIntMaterialPickerBetaFeatureRolloutPercent": 100,
     "FFlagLoadQEntityIconFromCurrentDataModel": true,
     "FFlagDevFrameworkMaterialActionAsTool": true,
@@ -6255,7 +6254,6 @@
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": true,
     "FFlagRemoveKickWhitespaceSub": true,
     "SupportRestartLuaAppNotification": true,
-    "FIntWinBackgroundDownloadUpdatesHundredthPercent": 1000,
     "FFlagRegisterTerminationCrashHandler": true,
     "FFlagLuaAppGameDetailLockState": true,
     "DFFlagCLI111655": true,
@@ -6843,8 +6841,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "2d4bff42be3b730cbb69280050251bb6539a9b5f",
-    "DFStringFlagRepoGitHashDynamicString": "2d4bff42be3b730cbb69280050251bb6539a9b5f",
-    "FStringFlipTimeStampFastString": "2024-08-14T22:28:19.283Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:28:19.283Z"
+    "FStringFlagRepoGitHashFastString": "55fbdaf3393d216c7b4a1120dfa24d918c8866a2",
+    "DFStringFlagRepoGitHashDynamicString": "55fbdaf3393d216c7b4a1120dfa24d918c8866a2",
+    "FStringFlipTimeStampFastString": "2024-08-14T22:33:50.169Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T22:33:50.169Z"
 }
