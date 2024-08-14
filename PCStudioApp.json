@@ -7259,6 +7259,7 @@
     "FFlagComponentizeMaterialGenerator_Rollout": "true;60;2024-08-14T17:02:28",
     "FFlagMaterialGeneratorNewUI4_Rollout": "true;60;2024-08-14T17:02:32",
     "FFlagMaterialGeneratorNewServiceAsyncApi_Rollout": "true;60;2024-08-14T17:06:33",
+    "DFFlagCLI64234Metrics_Rollout": "false;60;2024-08-14T17:24:39",
     "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": true,
     "FFlagEnableAdsMouseUnlock": true,
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -7339,8 +7340,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "43b9d923a2f46c88fefa3d58a7d7f87667722577",
-    "DFStringFlagRepoGitHashDynamicString": "43b9d923a2f46c88fefa3d58a7d7f87667722577",
-    "FStringFlipTimeStampFastString": "2024-08-14T17:22:01.793Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:22:01.793Z"
+    "FStringFlagRepoGitHashFastString": "52762a93c91b3202d26f25955cee02ff5288040e",
+    "DFStringFlagRepoGitHashDynamicString": "52762a93c91b3202d26f25955cee02ff5288040e",
+    "FStringFlipTimeStampFastString": "2024-08-14T17:25:39.717Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:25:39.717Z"
 }
