@@ -6560,8 +6560,6 @@
     "DFFlagGuiLayerStrongInputEnded": true,
     "DFFlagPreserveResumeValue": true,
     "DFFlagModuleStateDelayedRelease": true,
-    "FFlagFCFlagsThreadSafe4_Rollout": "true;60;2024-08-14T17:48:07",
-    "DFFlagFixImageCumulativePercentInView_Rollout": "true;60;2024-08-14T17:59:49",
     "DFFlagCalculateCPV15StatsWhileVideoPlaying": true,
     "FFlagLuaAppRefactorNextTokenRefresh": true,
     "FFlagAppChatWideModeRightContainerClipsDescendants": true,
@@ -6619,6 +6617,9 @@
     "FFlagNavBarLabelsVRFix_Rollout": "true;60;2024-08-14T19:15:57",
     "FFlagNavBarAssignmentRefactor_Rollout": "true;60;2024-08-14T19:16:17",
     "FFlagFixDropDownVisibility_Rollout": "true;60;2024-08-14T19:17:15",
+    "FFlagFixHealthDesync_Rollout": "true;60;2024-08-14T19:17:49",
+    "FFlagFCFlagsThreadSafe4": true,
+    "DFFlagFixImageCumulativePercentInView": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -7143,8 +7144,8 @@
     "FFlagAXAccessoryAdjustment": true,
     "FFlagFriendRequestNicknamesUIBugFixes": true,
     "FFlagFriendRequestNicknamesV9": true,
-    "FStringFlagRepoGitHashFastString": "7139de0c04fceba8761f7ee3075d0795650390ee",
-    "DFStringFlagRepoGitHashDynamicString": "7139de0c04fceba8761f7ee3075d0795650390ee",
-    "FStringFlipTimeStampFastString": "2024-08-14T19:17:46.881Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T19:17:46.881Z"
+    "FStringFlagRepoGitHashFastString": "1ae1484b040160e26b5d93ea8dc9c9dba90bda14",
+    "DFStringFlagRepoGitHashDynamicString": "1ae1484b040160e26b5d93ea8dc9c9dba90bda14",
+    "FStringFlipTimeStampFastString": "2024-08-14T19:31:52.994Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T19:31:52.994Z"
 }

@@ -6560,7 +6560,6 @@
     "DFFlagGuiLayerStrongInputEnded": true,
     "DFFlagPreserveResumeValue": true,
     "DFFlagModuleStateDelayedRelease": true,
-    "FFlagFCFlagsThreadSafe4_Rollout": "true;60;2024-08-14T17:48:07",
     "FFlagGpuGeometryManager11": true,
     "DFFlagCalculateCPV15StatsWhileVideoPlaying": true,
     "FFlagLuaAppRefactorNextTokenRefresh": true,
@@ -6616,6 +6615,11 @@
     "FFlagFixLimitedUMobilePurchasePrompt": true,
     "FFlagFixSeeAllOutfitTileBottomPadding": true,
     "FFlagSimGatherMechDataSmallVector": true,
+    "FFlagNavBarLabelsVRFix_Rollout": "true;60;2024-08-14T19:15:57",
+    "FFlagNavBarAssignmentRefactor_Rollout": "true;60;2024-08-14T19:16:17",
+    "FFlagFixDropDownVisibility_Rollout": "true;60;2024-08-14T19:17:15",
+    "FFlagFixHealthDesync_Rollout": "true;60;2024-08-14T19:17:49",
+    "FFlagFCFlagsThreadSafe4": true,
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": true,
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": true,
     "FFlagGpuGeometryManager13": true,
@@ -7051,8 +7055,8 @@
     "FFlagSocialAddExperienceRoutes_v3": true,
     "FFlagUniversalAppCsat4": true,
     "FFlagWinEnableCVersionLoadCheck": true,
-    "FStringFlagRepoGitHashFastString": "c897227b2c659c445f6041adf3712beb637a3bc1",
-    "DFStringFlagRepoGitHashDynamicString": "c897227b2c659c445f6041adf3712beb637a3bc1",
-    "FStringFlipTimeStampFastString": "2024-08-14T19:11:47.554Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T19:11:47.554Z"
+    "FStringFlagRepoGitHashFastString": "918ff7ade58718dd4ff1fe83c33610c0cbd20960",
+    "DFStringFlagRepoGitHashDynamicString": "918ff7ade58718dd4ff1fe83c33610c0cbd20960",
+    "FStringFlipTimeStampFastString": "2024-08-14T19:26:51.047Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T19:26:51.047Z"
 }
