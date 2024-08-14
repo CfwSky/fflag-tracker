@@ -6550,7 +6550,7 @@
     "FFlagSupportOverrideIconForInstance": true,
     "FFlagRenderEnableGlobalInstancingMetal": true,
     "FFlagAppChatWideModeRightContainerClipsDescendants_Rollout": "true;60;2024-08-14T16:27:30",
-    "FFlagGpuGeometryManager13": true,
+    "FFlagBuildInitialCacheFix": true,
     "FFlagFaceAnimatorV2CUseRuntimeWorker3_Rollout": "true;60;2024-08-14T16:31:39",
     "FFlagRegionSetData_Rollout": "true;60;2024-08-14T16:38:19",
     "FFlagVideoVP9HardWareDecoderCap2_Rollout": "true;60;2024-08-14T16:40:13",
@@ -6592,7 +6592,7 @@
     "DFFlagPreserveResumeValue": true,
     "DFFlagModuleStateDelayedRelease": true,
     "FFlagFCFlagsThreadSafe4_Rollout": "true;60;2024-08-14T17:48:07",
-    "FFlagBuildInitialCacheFix": true,
+    "FFlagGpuGeometryManager13": true,
     "FFlagVoiceChatStopSendingIceCandidate": false,
     "FFlagEnableAdsEudsaDynamicDisclosure": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -7023,8 +7023,8 @@
     "FFlagFixBundlePromptThumbnail": true,
     "FFlagGraphicsMetalShaderCookie": false,
     "FFlagUniversalAppCsat4": true,
-    "FStringFlagRepoGitHashFastString": "d7620d54b9917e0cc2961edf919edc76c274f2fd",
-    "DFStringFlagRepoGitHashDynamicString": "d7620d54b9917e0cc2961edf919edc76c274f2fd",
-    "FStringFlipTimeStampFastString": "2024-08-14T17:55:12.281Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:55:12.281Z"
+    "FStringFlagRepoGitHashFastString": "056a4daf560a93b2ce51106dfed75f32179abef5",
+    "DFStringFlagRepoGitHashDynamicString": "056a4daf560a93b2ce51106dfed75f32179abef5",
+    "FStringFlipTimeStampFastString": "2024-08-14T18:00:49.859Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:00:49.859Z"
 }

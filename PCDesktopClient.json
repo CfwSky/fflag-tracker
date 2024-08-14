@@ -6550,8 +6550,8 @@
     "FFlagSupportOverrideIconForInstance": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagAppChatWideModeRightContainerClipsDescendants_Rollout": "true;60;2024-08-14T16:27:30",
-    "FFlagBuildInitialCacheFix": true,
     "FFlagEnableAdsEudsaDynamicDisclosure": true,
+    "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagRegionSetData_Rollout": "true;60;2024-08-14T16:38:19",
     "FFlagVideoVP9HardWareDecoderCap2_Rollout": "true;60;2024-08-14T16:40:13",
     "DFIntReportFrequencyBucketSizePercent_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
@@ -6592,7 +6592,7 @@
     "DFFlagPreserveResumeValue": true,
     "DFFlagModuleStateDelayedRelease": true,
     "FFlagFCFlagsThreadSafe4_Rollout": "true;60;2024-08-14T17:48:07",
-    "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "FFlagBuildInitialCacheFix": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -7031,8 +7031,8 @@
     "FFlagSocialAddExperienceRoutes_v3": true,
     "FFlagUniversalAppCsat4": true,
     "FFlagWinEnableCVersionLoadCheck": true,
-    "FStringFlagRepoGitHashFastString": "d7620d54b9917e0cc2961edf919edc76c274f2fd",
-    "DFStringFlagRepoGitHashDynamicString": "d7620d54b9917e0cc2961edf919edc76c274f2fd",
-    "FStringFlipTimeStampFastString": "2024-08-14T17:55:12.281Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T17:55:12.281Z"
+    "FStringFlagRepoGitHashFastString": "056a4daf560a93b2ce51106dfed75f32179abef5",
+    "DFStringFlagRepoGitHashDynamicString": "056a4daf560a93b2ce51106dfed75f32179abef5",
+    "FStringFlipTimeStampFastString": "2024-08-14T18:00:49.859Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T18:00:49.859Z"
 }
