@@ -6638,7 +6638,6 @@
     "DFIntTeleportV2ForPartyPerTenThousand2": 10000,
     "DFFlagTotalTrackedMemory_Rollout": "true;60;2024-08-14T23:14:23",
     "FFlagAnalyticsGlobalVarRefactorV3": true,
-    "DFIntMaxSpatialQueryExtents_Rollout": "30000;30;2024-08-14T23:31:32",
     "FFlagCapturesAddStopwatchTrackingForHotkey": true,
     "FFlagScreenshotsSaveToDeviceToast_v2": true,
     "DFFlagFrameTimeJitterMedians2": true,
@@ -6651,6 +6650,7 @@
     "FFlagPathfindingFixHFsExtentsWhenSkippingEmptyHFs": true,
     "FFlagMediaAccordionAndFullTelemetry": true,
     "FFlagAddStreamingServiceDispatcherTests": true,
+    "DFIntMaxSpatialQueryExtents": 30000,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7412,8 +7412,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "ced00b1931ff84bda90828f99f511c75b7e2d2ee",
-    "DFStringFlagRepoGitHashDynamicString": "ced00b1931ff84bda90828f99f511c75b7e2d2ee",
-    "FStringFlipTimeStampFastString": "2024-08-15T00:23:08.880Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T00:23:08.880Z"
+    "FStringFlagRepoGitHashFastString": "64d21cd24c539338d192d0bb80a63e7ad6997be9",
+    "DFStringFlagRepoGitHashDynamicString": "64d21cd24c539338d192d0bb80a63e7ad6997be9",
+    "FStringFlipTimeStampFastString": "2024-08-15T00:37:12.669Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-15T00:37:12.669Z"
 }
