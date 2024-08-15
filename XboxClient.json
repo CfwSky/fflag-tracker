@@ -6490,7 +6490,7 @@
     "DFFlagCapsAssignCheck": true,
     "FFlagLuaAppURLEncodeGameSearchQuery": true,
     "FFlagLuauPreserveLudataRenaming": true,
-    "DFIntHeatmapServiceEnabledHundredthPercent": 500,
+    "DFIntHeatmapServiceEnabledHundredthPercent": 1000,
     "FStringConversationIneligibleModalLearnMoreClickedCounter": "ConversationIneligibleModalLearnMoreClickedCommon",
     "FStringConversationIneligibleModalLeftGroupCounter": "ConversationIneligibleModalLeftGroupCommon",
     "FStringConversationIneligibleModalRenderedCounter": "ConversationIneligibleModalRenderedCommon",
@@ -6665,7 +6665,6 @@
     "FFlagLuaAppGameCollectionViewsOta": true,
     "FFlagUserCameraInputDt": true,
     "DFFlagRobloxTelemetryAddCheckSum": true,
-    "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "1000;60;2024-08-15T19:43:28",
     "FFlagSearchEventCurrentPage": true,
     "FFlagAddExitActionToSystemMenu": true,
     "FFlagFixReducedMotionStuckIGM2": true,
@@ -6677,6 +6676,8 @@
     "DFFlagVoiceChatCullingAudibilityScalarEnabled": true,
     "FFlagStudioFixFillToolPluginManager": true,
     "FFlagPath2DEnableClosed_Rollout": "true;60;2024-08-15T21:08:41",
+    "DFFlagSimSolverReducedMeshAeroModel_Rollout": "true;60;2024-08-15T21:12:06",
+    "FFlagCAPConvAiExperimentUpdateLogEventInterface_Rollout": "true;60;2024-08-15T21:18:16",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -6972,8 +6973,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "633c08f60d4df7da6b90f1c8d01f45438f739321",
-    "DFStringFlagRepoGitHashDynamicString": "633c08f60d4df7da6b90f1c8d01f45438f739321",
-    "FStringFlipTimeStampFastString": "2024-08-15T21:09:51.642Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T21:09:51.642Z"
+    "FStringFlagRepoGitHashFastString": "9a78753cd4838992fbc90bddd27073fd78a73034",
+    "DFStringFlagRepoGitHashDynamicString": "9a78753cd4838992fbc90bddd27073fd78a73034",
+    "FStringFlipTimeStampFastString": "2024-08-15T21:20:56.114Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-15T21:20:56.114Z"
 }

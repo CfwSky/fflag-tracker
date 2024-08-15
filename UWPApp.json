@@ -6677,6 +6677,7 @@
     "FFlagStudioFixFillToolPluginManager": true,
     "FFlagPath2DEnableClosed_Rollout": "true;60;2024-08-15T21:08:41",
     "DFFlagSimSolverReducedMeshAeroModel_Rollout": "true;60;2024-08-15T21:12:06",
+    "FFlagCAPConvAiExperimentUpdateLogEventInterface_Rollout": "true;60;2024-08-15T21:18:16",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -6871,8 +6872,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "10c0bb074b06c0ab20c78a7e7fd6ec1bf144a8e5",
-    "DFStringFlagRepoGitHashDynamicString": "10c0bb074b06c0ab20c78a7e7fd6ec1bf144a8e5",
-    "FStringFlipTimeStampFastString": "2024-08-15T21:16:54.916Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T21:16:54.916Z"
+    "FStringFlagRepoGitHashFastString": "9a78753cd4838992fbc90bddd27073fd78a73034",
+    "DFStringFlagRepoGitHashDynamicString": "9a78753cd4838992fbc90bddd27073fd78a73034",
+    "FStringFlipTimeStampFastString": "2024-08-15T21:20:56.114Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-15T21:20:56.114Z"
 }

@@ -6490,7 +6490,7 @@
     "DFFlagCapsAssignCheck": true,
     "FFlagLuaAppURLEncodeGameSearchQuery": true,
     "FFlagLuauPreserveLudataRenaming": true,
-    "DFIntHeatmapServiceEnabledHundredthPercent": 500,
+    "DFIntHeatmapServiceEnabledHundredthPercent": 1000,
     "FStringConversationIneligibleModalLearnMoreClickedCounter": "ConversationIneligibleModalLearnMoreClickediOS",
     "FStringConversationIneligibleModalLeftGroupCounter": "ConversationIneligibleModalLeftGroupiOS",
     "FStringConversationIneligibleModalRenderedCounter": "ConversationIneligibleModalRenderediOS",
@@ -6665,7 +6665,6 @@
     "FFlagLuaAppGameCollectionViewsOta": true,
     "FFlagUserCameraInputDt": true,
     "DFFlagRobloxTelemetryAddCheckSum": true,
-    "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "1000;60;2024-08-15T19:43:28",
     "FFlagSearchEventCurrentPage": true,
     "FFlagAddExitActionToSystemMenu": true,
     "FFlagFixReducedMotionStuckIGM2": true,
@@ -6678,6 +6677,7 @@
     "FFlagStudioFixFillToolPluginManager": true,
     "FFlagPath2DEnableClosed_Rollout": "true;60;2024-08-15T21:08:41",
     "DFFlagSimSolverReducedMeshAeroModel_Rollout": "true;60;2024-08-15T21:12:06",
+    "FFlagCAPConvAiExperimentUpdateLogEventInterface_Rollout": "true;60;2024-08-15T21:18:16",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7206,8 +7206,8 @@
     "FFlagProfilePlatformRemainingLogging": true,
     "FFlagLuaAppValidateOmniRecsPageType_Rollout": "true;30;2024-08-15T20:55:35",
     "FFlagLuaAppRefactorOmniRecsMetadata_Rollout": "true;30;2024-08-15T21:12:27",
-    "FStringFlagRepoGitHashFastString": "aefdf277d53797fa5dbe570115bf8d8f7724b4f8",
-    "DFStringFlagRepoGitHashDynamicString": "aefdf277d53797fa5dbe570115bf8d8f7724b4f8",
-    "FStringFlipTimeStampFastString": "2024-08-15T21:13:26.813Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T21:13:26.813Z"
+    "FStringFlagRepoGitHashFastString": "9a78753cd4838992fbc90bddd27073fd78a73034",
+    "DFStringFlagRepoGitHashDynamicString": "9a78753cd4838992fbc90bddd27073fd78a73034",
+    "FStringFlipTimeStampFastString": "2024-08-15T21:20:56.114Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-15T21:20:56.114Z"
 }
