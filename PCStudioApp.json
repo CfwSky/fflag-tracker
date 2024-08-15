@@ -6623,7 +6623,7 @@
     "FStringConversationPvDialogFailedCounter": "ConversationPvDialogFailedCommon",
     "FStringConversationPvDialogRenderedCounter": "ConversationPvDialogRenderedCommon",
     "FStringConversationPvDialogSucceededCounter": "ConversationPvDialogSucceededCommon",
-    "FFlagStudioPluginDisableTitleBarOption": true,
+    "FFlagStudioPluginDisableTitleBarOption": false,
     "FFlagFCOptimization": true,
     "FFlagUAppBlockPageUseTextFromGUAC": true,
     "FFlagUseNewLoadStreamAnimationAPI": true,
@@ -7406,8 +7406,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "c3887b7d4e70dcd66628e3583d861ec482c6d000",
-    "DFStringFlagRepoGitHashDynamicString": "c3887b7d4e70dcd66628e3583d861ec482c6d000",
-    "FStringFlipTimeStampFastString": "2024-08-15T00:05:31.246Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T00:05:31.246Z"
+    "FStringFlagRepoGitHashFastString": "8ccb9834f2b37ca753406dd984884beb156293d6",
+    "DFStringFlagRepoGitHashDynamicString": "8ccb9834f2b37ca753406dd984884beb156293d6",
+    "FStringFlipTimeStampFastString": "2024-08-15T00:12:41.745Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-15T00:12:41.745Z"
 }
