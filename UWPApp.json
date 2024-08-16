@@ -6671,11 +6671,13 @@
     "DFFlagVoiceChatCullingAudibilityScalarEnabled": true,
     "FFlagStudioFixFillToolPluginManager": true,
     "FFlagArrayDynamicNewAllocateOrCrash": true,
-    "DFFlagDetectPatchOOM_Rollout": "true;60;2024-08-15T22:28:49",
-    "FFlagAddUserScrollingStatData_Rollout": "true;30;2024-08-15T22:30:49",
     "FFlagPath2DEnableClosed": true,
     "DFFlagSimSolverReducedMeshAeroModel": true,
     "FFlagCAPConvAiExperimentUpdateLogEventInterface": true,
+    "FFlagAddUserScrollingStatData": true,
+    "DFFlagDetectPatchOOM": true,
+    "FFlagCAPConvAiExperimentLogMessageSent": true,
+    "FFlagFetchBlockListFromServer_Rollout": "true;60;2024-08-16T16:14:44",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -6869,8 +6871,8 @@
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagAXAccessoryAdjustment": true,
-    "FStringFlagRepoGitHashFastString": "21cb47fd185212a26fecb55335815b440bb2c50a",
-    "DFStringFlagRepoGitHashDynamicString": "21cb47fd185212a26fecb55335815b440bb2c50a",
-    "FStringFlipTimeStampFastString": "2024-08-15T23:15:28.198Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T23:15:28.198Z"
+    "FStringFlagRepoGitHashFastString": "dffe9588e1ea037951c94777940f13eace154b3f",
+    "DFStringFlagRepoGitHashDynamicString": "dffe9588e1ea037951c94777940f13eace154b3f",
+    "FStringFlipTimeStampFastString": "2024-08-16T16:21:27.258Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-16T16:21:27.258Z"
 }
