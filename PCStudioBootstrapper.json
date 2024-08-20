@@ -108,11 +108,9 @@
     "FFlagFixNilButtonCrashApp": true,
     "FFlagAXDefaultMobileUIToFullShopIXPEnabled": true,
     "FFlagAXDisableWidgetPlatformLayerExposure": true,
-    "FFlagEnableQrCodePageProfileShareLink": true,
     "FFlagVngTOSRevisedEnabled": true,
     "FFlagAXAvatarFetchResultCamelCase": true,
     "FFlagAXFixShopAndExperiencesById": true,
-    "FFlagAXAccessoryAdjustment": true,
     "FFlagAXNoFaceHeadToastCounter": true,
     "FFlagProfilePlatformRemainingLogging": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
@@ -125,8 +123,8 @@
     "FFlagWindowsMonitorAnalytics": true,
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
-    "FStringFlagRepoGitHashFastString": "4b2f49428dd75e8ea70a2ba5f7df7f3a4e4d54a3",
-    "DFStringFlagRepoGitHashDynamicString": "4b2f49428dd75e8ea70a2ba5f7df7f3a4e4d54a3",
-    "FStringFlipTimeStampFastString": "2024-08-20T04:25:58.479Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T04:25:58.479Z"
+    "FStringFlagRepoGitHashFastString": "ded06f411c633b767bc4c09dfd107d78e94c7f53",
+    "DFStringFlagRepoGitHashDynamicString": "ded06f411c633b767bc4c09dfd107d78e94c7f53",
+    "FStringFlipTimeStampFastString": "2024-08-20T22:51:59.646Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T22:51:59.646Z"
 }
