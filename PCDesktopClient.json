@@ -6884,7 +6884,9 @@
     "DFStringRobloxTelemetryAdapterPointV2Prefix": "v2_adapter_0819_",
     "DFStringRobloxTelemetryV2PointAdatpterDualWriteWhitelist": "\"\"",
     "FFlagPathfindingSkipPartsExceedTileCapacity": true,
-    "FFlagGetFFlagCountryCodeBoldPrefixEnabled_Rollout": "true;60;2024-08-21T22:22:57",
+    "FFlagGetFFlagCountryCodeBoldPrefixEnabled": true,
+    "FFlagWindowsTTIReportUpdateDuration_Rollout": "true;60;2024-08-22T16:51:58",
+    "DFFlagFixMigrateAvatarTelemetryToDurationLogger2_Rollout": "true;60;2024-08-22T17:02:29",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7195,8 +7197,8 @@
     "FFlagPlayerSearchRemovalFix": true,
     "FFlagVideoUseBaseClassBufferPool": true,
     "FFlagDisableLogWhenMonitorConditionLocked3": true,
-    "FStringFlagRepoGitHashFastString": "d62e638036379892d59c181997f60be3a9a7bd3f",
-    "DFStringFlagRepoGitHashDynamicString": "d62e638036379892d59c181997f60be3a9a7bd3f",
-    "FStringFlipTimeStampFastString": "2024-08-21T22:40:53.140Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T22:40:53.140Z"
+    "FStringFlagRepoGitHashFastString": "512cbad956647cb85febbc35f601b0453ceade7d",
+    "DFStringFlagRepoGitHashDynamicString": "512cbad956647cb85febbc35f601b0453ceade7d",
+    "FStringFlipTimeStampFastString": "2024-08-22T17:12:25.955Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T17:12:25.955Z"
 }

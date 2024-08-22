@@ -7287,9 +7287,10 @@
     "FFlagMergeFakeInputEvents": false,
     "FFlagFixProfilePlatformAndroidBackButton": true,
     "FFlagProfilePlatformFixTelemetryEvents": true,
-    "FFlagGetFFlagCountryCodeBoldPrefixEnabled_Rollout": "true;60;2024-08-21T22:22:57",
-    "FStringFlagRepoGitHashFastString": "d62e638036379892d59c181997f60be3a9a7bd3f",
-    "DFStringFlagRepoGitHashDynamicString": "d62e638036379892d59c181997f60be3a9a7bd3f",
-    "FStringFlipTimeStampFastString": "2024-08-21T22:40:53.140Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T22:40:53.140Z"
+    "FFlagGetFFlagCountryCodeBoldPrefixEnabled": true,
+    "DFFlagEnableAdsApiClientV2Endpoint2_Rollout": "true;30;2024-08-22T16:28:25",
+    "FStringFlagRepoGitHashFastString": "dc64228f6b8b512dd77fd62d3d1bed94e5b74cc1",
+    "DFStringFlagRepoGitHashDynamicString": "dc64228f6b8b512dd77fd62d3d1bed94e5b74cc1",
+    "FStringFlipTimeStampFastString": "2024-08-22T17:13:06.015Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T17:13:06.015Z"
 }
