@@ -6884,6 +6884,9 @@
     "FFlagAutocompletePerformanceTelemetry_Rollout": "true;60;2024-08-26T21:20:47",
     "DFFlagTerminateOnBadFormatString": true,
     "FFlagStudioActionsTNG2": true,
+    "FFlagXboxCleanerGamepadReactivation_Rollout": "true;60;2024-08-26T21:23:40",
+    "FFlagStudioDeviceEmulatorFixDeviceFormAndPlatformUI_Rollout": "true;60;2024-08-26T21:31:40",
+    "FFlagStudioDeviceEmulatorUseTextInInfo_Rollout": "true;60;2024-08-26T21:32:19",
     "DFFlagLockViolationInstanceCrash": false,
     "DFFlagLockViolationScriptCrash": true,
     "DFFlagOrder66": false,
@@ -7618,7 +7621,6 @@
     "FFlagUseSessionChangeSignal": true,
     "DFFlagCollisionMeshCachingStats2": true,
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": 100,
-    "FFlagPhysicsCountLocalSimulatedTouchEvents": true,
     "DFFlagEnableGameJoinPriority": true,
     "DFFlagTeleportJoinBack": false,
     "FIntThrottleParticipantsUpdateMs2": 500,
@@ -7667,8 +7669,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
     "FFlagUseParallelTypecheckInLSP2": true,
-    "FStringFlagRepoGitHashFastString": "53e30360bba4e5a795b8b9a4c7bae68818033df7",
-    "DFStringFlagRepoGitHashDynamicString": "53e30360bba4e5a795b8b9a4c7bae68818033df7",
-    "FStringFlipTimeStampFastString": "2024-08-26T21:23:03.409Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-26T21:23:03.409Z"
+    "FStringFlagRepoGitHashFastString": "5da8b5c3d74c800b82e3c70e19042803da8bb911",
+    "DFStringFlagRepoGitHashDynamicString": "5da8b5c3d74c800b82e3c70e19042803da8bb911",
+    "FStringFlipTimeStampFastString": "2024-08-26T21:38:59.913Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-26T21:38:59.913Z"
 }
