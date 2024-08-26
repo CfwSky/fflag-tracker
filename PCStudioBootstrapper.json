@@ -114,7 +114,7 @@
     "FFlagAXNoFaceHeadToastCounter": true,
     "FFlagProfilePlatformRemainingLogging": true,
     "FFlagExperienceStateCaptureIsInBackground": true,
-    "FFlagAXHideSeeAllIfTooFewItems_Rollout": "true;60;2024-08-26T18:55:30",
+    "FFlagAXHideSeeAllIfTooFewItems": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -125,8 +125,8 @@
     "FFlagWindowsMonitorAnalytics": true,
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
-    "FStringFlagRepoGitHashFastString": "662020508c9ee7853e665740576a93f4897a32d8",
-    "DFStringFlagRepoGitHashDynamicString": "662020508c9ee7853e665740576a93f4897a32d8",
-    "FStringFlipTimeStampFastString": "2024-08-26T19:05:16.709Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-26T19:05:16.709Z"
+    "FStringFlagRepoGitHashFastString": "6b5bd29651389da35106cc62348ad282339cc26c",
+    "DFStringFlagRepoGitHashDynamicString": "6b5bd29651389da35106cc62348ad282339cc26c",
+    "FStringFlipTimeStampFastString": "2024-08-26T21:06:11.388Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-26T21:06:11.388Z"
 }
