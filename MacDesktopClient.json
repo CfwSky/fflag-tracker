@@ -6948,6 +6948,7 @@
     "FFlagGraphicsFixMPDisplayInfo": true,
     "DFFlagMakeRaycastFunctionsReturnOptional": true,
     "FFlagVideoTextureYuvUseBuffer": true,
+    "FStringChatLandingPvUpsellSeenAction_Rollout": "no_op;60;2024-08-28T20:05:06",
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingMetal": true,
@@ -7063,7 +7064,6 @@
     "DFFlagFixMigrateAvatarTelemetryToDurationLogger2": true,
     "FFlagLuaAppFixCollectionFrameOverlap": true,
     "FFlagLuaAppOmniRecStats": true,
-    "FFlagEnableAccessBlockAtAppContainerLevel": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7363,8 +7363,8 @@
     "FFlagLooksAvatarPDP8": true,
     "FFlagEnableUniversalFocusNavigation": true,
     "FFlagRevertUIScaleForMaxSize": true,
-    "FStringFlagRepoGitHashFastString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "DFStringFlagRepoGitHashDynamicString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "FStringFlipTimeStampFastString": "2024-08-28T16:00:40.456Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-28T16:00:40.456Z"
+    "FStringFlagRepoGitHashFastString": "a536c5e841b92f781efe0a51a7bdd6bb5b94046f",
+    "DFStringFlagRepoGitHashDynamicString": "a536c5e841b92f781efe0a51a7bdd6bb5b94046f",
+    "FStringFlipTimeStampFastString": "2024-08-28T20:11:10.037Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-28T20:11:10.037Z"
 }
