@@ -122,7 +122,7 @@
     "FFlagAXRemoveAdaptiveScrollingUnusedCode": true,
     "FFlagAXUseDynamicIsLooksWidget": true,
     "DFFlagMeshLODTranscode2": true,
-    "DFFlagVoiceChatCullingSendMessagesOnWorkerThread_Rollout": "true;60;2024-09-10T22:41:56",
+    "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -136,8 +136,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "c16cae4fc328eb2592f5007eae0586047b2a45cd",
-    "DFStringFlagRepoGitHashDynamicString": "c16cae4fc328eb2592f5007eae0586047b2a45cd",
-    "FStringFlipTimeStampFastString": "2024-09-10T23:07:05.644Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-10T23:07:05.644Z"
+    "FStringFlagRepoGitHashFastString": "92a14f3a7c86683e0f10a0a7ad2d07fd5a5c851e",
+    "DFStringFlagRepoGitHashDynamicString": "92a14f3a7c86683e0f10a0a7ad2d07fd5a5c851e",
+    "FStringFlipTimeStampFastString": "2024-09-11T16:46:44.853Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-11T16:46:44.853Z"
 }
