@@ -7280,6 +7280,7 @@
     "DFFlagUseNewSerializerBinaryAPI": true,
     "FFlagLuaAppBootcampIntroUABOOTCAMP29": true,
     "FFlagPanelObserverDontCrashOnShutdown_Rollout": "true;60;2024-09-16T16:58:25",
+    "DFFlagVoiceChatCullingTimedLatchEnabled_Rollout": "true;30;2024-09-16T17:07:55",
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
@@ -7434,6 +7435,7 @@
     "FFlagNewCallbackForBoundChannel": true,
     "FFlagAppChatUnreadRealtimeEvent_Rollout": "true;60;2024-09-16T16:47:11",
     "FFlagAXEnableOrganicContentTemplates2_Rollout": "true;60;2024-09-16T16:59:51",
+    "FFlagPlayerSearchJoinByCursor_Rollout": "true;30;2024-09-16T17:07:38",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7755,8 +7757,8 @@
     "DFFlagVoiceChatCullingEnableTransportSends": true,
     "DFFlagWebRTCHackDcstpSocketToCloseOnErrorEnabled": true,
     "FFlagEngineVoiceCullingExperiment": true,
-    "FStringFlagRepoGitHashFastString": "4c11a507f804e2ed420f052d40c02243f5f9db07",
-    "DFStringFlagRepoGitHashDynamicString": "4c11a507f804e2ed420f052d40c02243f5f9db07",
-    "FStringFlipTimeStampFastString": "2024-09-16T17:00:25.279Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T17:00:25.279Z"
+    "FStringFlagRepoGitHashFastString": "43bf9ca0d11e77915df38f54151bf0dfaf47dd4d",
+    "DFStringFlagRepoGitHashDynamicString": "43bf9ca0d11e77915df38f54151bf0dfaf47dd4d",
+    "FStringFlipTimeStampFastString": "2024-09-16T17:11:37.262Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T17:11:37.262Z"
 }
