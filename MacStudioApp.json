@@ -1225,7 +1225,7 @@
     "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post",
     "FLogDataModelPatchConfigurer": 6,
     "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
-    "FStringIxpNewLayersForRegistration": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors",
+    "FStringIxpNewLayersForRegistration": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2",
     "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": 1000,
     "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": 1000,
     "FIntStudioLexMapChangeDocAnalyticsPerKeystrokeThrottleHundredthsPercent": 100,
@@ -7277,7 +7277,6 @@
     "DFFlagCFrameFromRotationBetweenVectors": true,
     "DFFlagUseNewSerializerBinaryAPI": true,
     "FFlagLuaAppBootcampIntroUABOOTCAMP29": true,
-    "FStringIxpNewLayersForRegistration_Rollout": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2;60;2024-09-16T17:33:49",
     "DFFlagVoiceChatCullingTimedLatchEnabled": true,
     "FIntDraggerImprovements2BetaFeatureRolloutPercent": 200,
     "FFlagGridHoverTile_Rollout": "true;60;2024-09-16T18:16:25",
@@ -8204,8 +8203,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "5289e169b2b1ba7fb944a073dc54484e064984aa",
-    "DFStringFlagRepoGitHashDynamicString": "5289e169b2b1ba7fb944a073dc54484e064984aa",
-    "FStringFlipTimeStampFastString": "2024-09-16T19:03:11.838Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:03:11.838Z"
+    "FStringFlagRepoGitHashFastString": "8d10e63b5cab6f177ba36a3abb14ac3275ca4a84",
+    "DFStringFlagRepoGitHashDynamicString": "8d10e63b5cab6f177ba36a3abb14ac3275ca4a84",
+    "FStringFlipTimeStampFastString": "2024-09-16T19:17:08.622Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:17:08.622Z"
 }
