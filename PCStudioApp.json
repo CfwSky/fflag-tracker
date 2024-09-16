@@ -8078,6 +8078,8 @@
     "FFlagStartPageSystemMenu3": false,
     "DFIntMultiPartUploadMaxChunkSizeByte": 15728640,
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
+    "DFFlagPlayerCharacterDestroyBehaviorDefaultEnabled_Rollout": "true;60;2024-09-16T16:42:17",
+    "FFlagAppChatUnreadRealtimeEvent_Rollout": "true;60;2024-09-16T16:47:11",
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
@@ -8177,8 +8179,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "bd6114f57e3ecf737967951c3a94258872a28b88",
-    "DFStringFlagRepoGitHashDynamicString": "bd6114f57e3ecf737967951c3a94258872a28b88",
-    "FStringFlipTimeStampFastString": "2024-09-16T16:18:54.622Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T16:18:54.622Z"
+    "FStringFlagRepoGitHashFastString": "5326356a6d489d3bb781e1d9c612429f6087efca",
+    "DFStringFlagRepoGitHashDynamicString": "5326356a6d489d3bb781e1d9c612429f6087efca",
+    "FStringFlipTimeStampFastString": "2024-09-16T16:47:48.890Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T16:47:48.890Z"
 }
