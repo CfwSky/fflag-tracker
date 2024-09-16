@@ -7439,7 +7439,6 @@
     "FFlagUseChannelBoundEnum": true,
     "FFlagReportIsFriendsWithUsage": true,
     "FFlagNewCallbackForBoundChannel": true,
-    "FFlagAgreementItemsOrderFixEnabled_Rollout": "true;60;2024-09-16T18:02:31",
     "FFlagPlayerSearchJoinByCursor": true,
     "FFlagAppChatUnreadRealtimeEvent": true,
     "FFlagAXEnableOrganicContentTemplates2": true,
@@ -7449,6 +7448,7 @@
     "FFlagProximityPromptFixCrashOnDelete3": true,
     "FFlagGamesFeedItemPartialEnties_1_Rollout": "true;30;2024-09-16T19:21:08",
     "FFlagLuaAppPackageTopicContents_Rollout": "true;30;2024-09-16T19:22:51",
+    "FFlagAgreementItemsOrderFixEnabled": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -7769,8 +7769,8 @@
     "DFFlagVoiceChatCullingEnableTransportSends": true,
     "DFFlagWebRTCHackDcstpSocketToCloseOnErrorEnabled": true,
     "FFlagEngineVoiceCullingExperiment": true,
-    "FStringFlagRepoGitHashFastString": "1925d966ed023770172066c8021f7126c5d785ca",
-    "DFStringFlagRepoGitHashDynamicString": "1925d966ed023770172066c8021f7126c5d785ca",
-    "FStringFlipTimeStampFastString": "2024-09-16T19:22:15.591Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:22:15.591Z"
+    "FStringFlagRepoGitHashFastString": "3292dc583fd08232ad5f7c725334fb13a7408874",
+    "DFStringFlagRepoGitHashDynamicString": "3292dc583fd08232ad5f7c725334fb13a7408874",
+    "FStringFlipTimeStampFastString": "2024-09-16T19:37:26.001Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:37:26.001Z"
 }

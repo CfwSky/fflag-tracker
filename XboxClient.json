@@ -7571,13 +7571,13 @@
     "FFlagDurationLoggerPlatformAdjustments": true,
     "FFlagUseChannelBoundEnum": true,
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
-    "FFlagAgreementItemsOrderFixEnabled_Rollout": "true;60;2024-09-16T18:02:31",
     "FFlagPlayerSearchJoinByCursor": true,
     "FFlagAXEnableOrganicContentTemplates2": true,
     "FFlagNewCallbackForBoundChannel": true,
     "FFlagGamesFeedItemPartialEnties_1_Rollout": "true;30;2024-09-16T19:21:08",
-    "FStringFlagRepoGitHashFastString": "25e54c7333b6f97b406388c01489f5869458510e",
-    "DFStringFlagRepoGitHashDynamicString": "25e54c7333b6f97b406388c01489f5869458510e",
-    "FStringFlipTimeStampFastString": "2024-09-16T19:23:25.127Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:23:25.127Z"
+    "FFlagAgreementItemsOrderFixEnabled": true,
+    "FStringFlagRepoGitHashFastString": "3292dc583fd08232ad5f7c725334fb13a7408874",
+    "DFStringFlagRepoGitHashDynamicString": "3292dc583fd08232ad5f7c725334fb13a7408874",
+    "FStringFlipTimeStampFastString": "2024-09-16T19:37:26.001Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:37:26.001Z"
 }

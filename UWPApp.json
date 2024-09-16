@@ -7474,17 +7474,17 @@
     "FFlagAXFixShopAndExperiencesById": true,
     "FFlagLuaAppExperienceInfoTableGenreIcon": true,
     "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
-    "FFlagAgreementItemsOrderFixEnabled_Rollout": "true;60;2024-09-16T18:02:31",
     "FFlagEnableSSABootstrapStandardization": true,
     "FFlagAXEnableOrganicContentTemplates2": true,
     "FFlagAXEnableMySharedAvatarsPage": true,
-    "FFlagAXExtractEditorTopBar2": true,
+    "FFlagAXExtractEditorTopBar2": false,
     "FFlagAXExtractIsAvatarWidgetHelper": true,
     "FFlagAXExtractResultListTopPanel": true,
     "FFlagAXRemoveAdaptiveScrollingUnusedCode": true,
     "FFlagAXUseDynamicIsLooksWidget": true,
-    "FStringFlagRepoGitHashFastString": "25e54c7333b6f97b406388c01489f5869458510e",
-    "DFStringFlagRepoGitHashDynamicString": "25e54c7333b6f97b406388c01489f5869458510e",
-    "FStringFlipTimeStampFastString": "2024-09-16T19:23:25.127Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:23:25.127Z"
+    "FFlagAgreementItemsOrderFixEnabled": true,
+    "FStringFlagRepoGitHashFastString": "f0b21bf162053664e16899f27d285d3dc49931d0",
+    "DFStringFlagRepoGitHashDynamicString": "f0b21bf162053664e16899f27d285d3dc49931d0",
+    "FStringFlipTimeStampFastString": "2024-09-16T19:38:23.052Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:38:23.052Z"
 }

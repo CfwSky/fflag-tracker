@@ -7438,7 +7438,6 @@
     "FFlagUseChannelBoundEnum": true,
     "FFlagReportIsFriendsWithUsage": true,
     "FFlagNewCallbackForBoundChannel": true,
-    "FFlagAgreementItemsOrderFixEnabled_Rollout": "true;60;2024-09-16T18:02:31",
     "FFlagPlayerSearchJoinByCursor": true,
     "FFlagAppChatUnreadRealtimeEvent": true,
     "FFlagReportStaticFlagsVersionCounter": true,
@@ -7449,6 +7448,7 @@
     "FFlagProximityPromptFixCrashOnDelete3": true,
     "FFlagGamesFeedItemPartialEnties_1_Rollout": "true;30;2024-09-16T19:21:08",
     "FFlagLuaAppPackageTopicContents_Rollout": "true;30;2024-09-16T19:22:51",
+    "FFlagAgreementItemsOrderFixEnabled": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7766,8 +7766,8 @@
     "FLogAudio_Rollout": "Debug,6;60;2024-09-16T18:54:21",
     "DFLogSoundTrace_Rollout": "Debug,6;60;2024-09-16T18:58:00",
     "FLogSound_Rollout": "Debug,6;60;2024-09-16T18:59:38",
-    "FStringFlagRepoGitHashFastString": "25e54c7333b6f97b406388c01489f5869458510e",
-    "DFStringFlagRepoGitHashDynamicString": "25e54c7333b6f97b406388c01489f5869458510e",
-    "FStringFlipTimeStampFastString": "2024-09-16T19:23:25.127Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:23:25.127Z"
+    "FStringFlagRepoGitHashFastString": "43867850e2ebf42c0c4d57deb78a1b594386eb70",
+    "DFStringFlagRepoGitHashDynamicString": "43867850e2ebf42c0c4d57deb78a1b594386eb70",
+    "FStringFlipTimeStampFastString": "2024-09-16T19:37:00.856Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T19:37:00.856Z"
 }
