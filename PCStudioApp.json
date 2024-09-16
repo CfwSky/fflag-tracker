@@ -7281,6 +7281,7 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP29": true,
     "AllowVideoPreRoll": true,
     "DFFlagVoiceChatCullingTimedLatchEnabled_Rollout": "true;30;2024-09-16T17:07:55",
+    "FFlagShorelines_AutoUpgradeAll_Rollout": "true;30;2024-09-16T17:15:17",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -8183,8 +8184,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "43bf9ca0d11e77915df38f54151bf0dfaf47dd4d",
-    "DFStringFlagRepoGitHashDynamicString": "43bf9ca0d11e77915df38f54151bf0dfaf47dd4d",
-    "FStringFlipTimeStampFastString": "2024-09-16T17:11:37.262Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T17:11:37.262Z"
+    "FStringFlagRepoGitHashFastString": "0ec94a3739087ef9bd39eb721f7bf5f1b7cf946e",
+    "DFStringFlagRepoGitHashDynamicString": "0ec94a3739087ef9bd39eb721f7bf5f1b7cf946e",
+    "FStringFlipTimeStampFastString": "2024-09-16T17:22:31.187Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T17:22:31.187Z"
 }
