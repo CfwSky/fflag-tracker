@@ -125,14 +125,15 @@
     "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": true,
     "FFlagReportIsFriendsWithUsage": true,
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
-    "FFlagAXEnableOrganicContentTemplates2_Rollout": "true;60;2024-09-16T16:59:51",
+    "FFlagAgreementItemsOrderFixEnabled_Rollout": "true;60;2024-09-16T18:02:31",
+    "FFlagAXEnableOrganicContentTemplates2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
-    "FStringFlagRepoGitHashFastString": "0ec94a3739087ef9bd39eb721f7bf5f1b7cf946e",
-    "DFStringFlagRepoGitHashDynamicString": "0ec94a3739087ef9bd39eb721f7bf5f1b7cf946e",
-    "FStringFlipTimeStampFastString": "2024-09-16T17:22:31.187Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T17:22:31.187Z"
+    "FStringFlagRepoGitHashFastString": "79238dfacc0258ec1d44f5e67c1e52fc330c334f",
+    "DFStringFlagRepoGitHashDynamicString": "79238dfacc0258ec1d44f5e67c1e52fc330c334f",
+    "FStringFlipTimeStampFastString": "2024-09-16T18:59:37.498Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T18:59:37.498Z"
 }
