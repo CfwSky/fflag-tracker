@@ -7287,8 +7287,6 @@
     "DFFlagVoiceChatCullingEnableOnlyCullWhenNotMutedOptimization": true,
     "FFlagGridHoverTile": true,
     "FFlagDisableLogWhenMonitorConditionLocked3": true,
-    "FFlagEnablePreferredTextSizeStyleFixesInAppShell3": true,
-    "FFlagVoiceChatCullingStartingStateIsCulled": true,
     "FFlagTextBoxScrollingContentAware": true,
     "FFlagUIBloxDidMountUpdateFullPageModal": true,
     "FFlagEnableTextSizeConstraintEmojiWrapper": true,
@@ -7297,6 +7295,11 @@
     "FFlagExpChatRefactorVisibleMessages": true,
     "FFlagRemoveDuplicateThrottlingFilterTextBWStats_Rollout": "true;30;2024-09-16T23:16:04",
     "FFlagEnablePreferredTextSizeStyleFixesAddFriends_Rollout": "true;30;2024-09-16T23:17:36",
+    "FStringDebugLocalRccServerConnectionHost_PlaceFilter": "\"10.10.23.91\";5157946270",
+    "DFStringSetTokenValue_PlaceFilter": "\"SixteenCharacter\";5157946270",
+    "FFlagEnablePreferredTextSizeStyleFixesInAppShell3_Rollout": "false;60;2024-09-16T23:49:49",
+    "DFIntSetUdmuxEndpointPort_PlaceFilter": "53640;5157946270",
+    "DFStringSetUdmuxEndpointIp_PlaceFilter": "\"10.208.6.39\";5157946270",
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingMetal": true,
@@ -7783,8 +7786,8 @@
     "FFlagSimLazyIslandUpdateAndRepack": true,
     "FFlagDoNotReadExtentsFromKdTree": true,
     "FFlagDoNotUseExplicitConvexHull": true,
-    "FStringFlagRepoGitHashFastString": "58207c6920285d83607141ecfd3bfe99cd82b0f2",
-    "DFStringFlagRepoGitHashDynamicString": "58207c6920285d83607141ecfd3bfe99cd82b0f2",
-    "FStringFlipTimeStampFastString": "2024-09-16T23:20:36.750Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T23:20:36.750Z"
+    "FStringFlagRepoGitHashFastString": "eab80a887559f06c1457179b3432e795ac7b205a",
+    "DFStringFlagRepoGitHashDynamicString": "eab80a887559f06c1457179b3432e795ac7b205a",
+    "FStringFlipTimeStampFastString": "2024-09-16T23:59:37.442Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T23:59:37.442Z"
 }
