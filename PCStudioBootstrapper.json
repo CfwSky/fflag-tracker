@@ -127,6 +127,7 @@
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
     "FFlagAXEnableOrganicContentTemplates2": true,
     "FFlagAgreementItemsOrderFixEnabled": true,
+    "FFlagAXFixNilItemDataCatalogContextFrame_Rollout": "true;60;2024-09-17T16:34:46",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -137,8 +138,8 @@
     "FFlagWindowsMonitorAnalytics": true,
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
-    "FStringFlagRepoGitHashFastString": "eab80a887559f06c1457179b3432e795ac7b205a",
-    "DFStringFlagRepoGitHashDynamicString": "eab80a887559f06c1457179b3432e795ac7b205a",
-    "FStringFlipTimeStampFastString": "2024-09-16T23:59:37.442Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T23:59:37.442Z"
+    "FStringFlagRepoGitHashFastString": "7137865d6b98f79781f870bd21df67a653d3949d",
+    "DFStringFlagRepoGitHashDynamicString": "7137865d6b98f79781f870bd21df67a653d3949d",
+    "FStringFlipTimeStampFastString": "2024-09-17T17:05:18.787Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-17T17:05:18.787Z"
 }
