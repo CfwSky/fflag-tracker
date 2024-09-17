@@ -7312,6 +7312,9 @@
     "FFlagRoact17RolloutEnabledForAll12_Rollout": "true;30;2024-09-17T18:30:20",
     "FFlagDisableTouchGesturesOnSurfaceGuis_Rollout": "true;60;2024-09-17T18:40:18",
     "FStringExperienceGuidelinesExplainedPageUrl": "https://en.help.roblox.com/hc/articles/8862768451604",
+    "FFlagAccessoryAdjustmentEnabled5_Rollout": "true;60;2024-09-17T18:49:23",
+    "FFlagProcessPSPlusItems_Rollout": "true;60;2024-09-17T18:56:31",
+    "FStringIxpNewLayersForRegistration_Rollout": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,Universality.MorePage.Exposure;60;2024-09-17T18:56:54",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7511,8 +7514,8 @@
     "FFlagDoNotUseExplicitConvexHull": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagAXExtractEditorTopBar2": true,
-    "FStringFlagRepoGitHashFastString": "99a0e27b0ce012aea576d0a7efed4c8f103b15ad",
-    "DFStringFlagRepoGitHashDynamicString": "99a0e27b0ce012aea576d0a7efed4c8f103b15ad",
-    "FStringFlipTimeStampFastString": "2024-09-17T18:47:41.780Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-17T18:47:41.780Z"
+    "FStringFlagRepoGitHashFastString": "9c8c1999df52656a4bc8e17ae3868f2d7d72c5ea",
+    "DFStringFlagRepoGitHashDynamicString": "9c8c1999df52656a4bc8e17ae3868f2d7d72c5ea",
+    "FStringFlipTimeStampFastString": "2024-09-17T18:57:31.269Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-17T18:57:31.269Z"
 }

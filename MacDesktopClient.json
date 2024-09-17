@@ -7311,7 +7311,10 @@
     "FFlagMainSwitchNavigationOptionsFix_Rollout": "true;30;2024-09-17T18:29:48",
     "FFlagRoact17RolloutEnabledForAll12_Rollout": "true;30;2024-09-17T18:30:20",
     "FFlagDisableTouchGesturesOnSurfaceGuis_Rollout": "true;60;2024-09-17T18:40:18",
+    "FStringExperienceGuidelinesExplainedPageUrl": "https://en.help.roblox.com/hc/articles/8862768451604",
     "FFlagGpuGeometryManager11": true,
+    "FFlagProcessPSPlusItems_Rollout": "true;60;2024-09-17T18:56:31",
+    "FStringIxpNewLayersForRegistration_Rollout": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,Universality.MorePage.Exposure;60;2024-09-17T18:56:54",
     "FFlagRenderEnableGlobalInstancingMetal": true,
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": true,
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": true,
@@ -7798,8 +7801,8 @@
     "FLogSound": "Debug,6",
     "FIntStaticFlagsVersionCounter": 1,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "b5b3bba6e8e311153ec749ef8b02a4bd73242a33",
-    "DFStringFlagRepoGitHashDynamicString": "b5b3bba6e8e311153ec749ef8b02a4bd73242a33",
-    "FStringFlipTimeStampFastString": "2024-09-17T18:41:55.714Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-17T18:41:55.714Z"
+    "FStringFlagRepoGitHashFastString": "9c8c1999df52656a4bc8e17ae3868f2d7d72c5ea",
+    "DFStringFlagRepoGitHashDynamicString": "9c8c1999df52656a4bc8e17ae3868f2d7d72c5ea",
+    "FStringFlipTimeStampFastString": "2024-09-17T18:57:31.269Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-17T18:57:31.269Z"
 }
