@@ -7476,6 +7476,11 @@
     "FFlagStudioOnlyNeedAssetFolderWatcherForOriginalDM": true,
     "FFlagAXAvatarTileFooterRefactor": true,
     "FFlagAXCarouselTileFooter": true,
+    "FFlagSTUDIOPLAT_36164_Rollout": "true;30;2024-09-23T16:02:49",
+    "DFFlagDualWriteRakNetBandwidthParquetPoint_Rollout": "true;60;2024-09-23T16:06:16",
+    "FFlagCheckFor0UserIdOnContactImporter": true,
+    "FFlagLuaConstraintToolBetaFeature_Rollout": "true;60;2024-09-23T16:14:28",
+    "FIntClientLaunchTimeoutMillisec_Rollout": "20000;60;2024-09-23T16:17:10",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7961,8 +7966,8 @@
     "FStringGraphicsVulkanBlacklistVendorIDs": 5045,
     "FFlagGraphicsVulkanBlacklistIDs": true,
     "FFlagEngineVoiceCullingExperiment": true,
-    "FStringFlagRepoGitHashFastString": "ac250f45c0dfb990427f1eb3a524dcb98f6adfb9",
-    "DFStringFlagRepoGitHashDynamicString": "ac250f45c0dfb990427f1eb3a524dcb98f6adfb9",
-    "FStringFlipTimeStampFastString": "2024-09-20T22:33:40.841Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-20T22:33:40.841Z"
+    "FStringFlagRepoGitHashFastString": "71654a9ae3a8bc73bb5f9b7971c3291a51ec91cd",
+    "DFStringFlagRepoGitHashDynamicString": "71654a9ae3a8bc73bb5f9b7971c3291a51ec91cd",
+    "FStringFlipTimeStampFastString": "2024-09-23T16:17:47.358Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-23T16:17:47.358Z"
 }
