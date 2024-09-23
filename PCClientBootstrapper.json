@@ -121,7 +121,7 @@
     "FFlagAXExtractResultListTopPanel": true,
     "FFlagAXRemoveAdaptiveScrollingUnusedCode": true,
     "FFlagAXUseDynamicIsLooksWidget": true,
-    "DFFlagMeshLODTranscode2": true,
+    "DFFlagMeshLODTranscode2": false,
     "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": true,
     "FFlagReportIsFriendsWithUsage": true,
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
@@ -141,8 +141,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "71654a9ae3a8bc73bb5f9b7971c3291a51ec91cd",
-    "DFStringFlagRepoGitHashDynamicString": "71654a9ae3a8bc73bb5f9b7971c3291a51ec91cd",
-    "FStringFlipTimeStampFastString": "2024-09-23T16:17:47.358Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-23T16:17:47.358Z"
+    "FStringFlagRepoGitHashFastString": "3a5306682c0d0f327283baf714914ea33d145e4f",
+    "DFStringFlagRepoGitHashDynamicString": "3a5306682c0d0f327283baf714914ea33d145e4f",
+    "FStringFlipTimeStampFastString": "2024-09-23T19:17:28.026Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-23T19:17:28.026Z"
 }
