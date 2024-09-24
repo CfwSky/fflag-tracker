@@ -7533,6 +7533,7 @@
     "FFlagAddAdditionalButtonsProp": true,
     "FFlagAppChatConversationTimestampSmaller": true,
     "FFlagAppChatInExpStopCachingWideMode": true,
+    "FFlagLuauStoreCommentsForDefinitionFiles_Rollout": "true;60;2024-09-24T21:05:30",
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
@@ -7981,8 +7982,8 @@
     "FFlagSimLazyIslandUpdateAndRepack": true,
     "FFlagReduceGuiStateGfxGuiInvalidation": true,
     "FFlagReportUITimePercentage": true,
-    "FStringFlagRepoGitHashFastString": "521a4915829e1fb8b36c22d152f54b99ab6451b4",
-    "DFStringFlagRepoGitHashDynamicString": "521a4915829e1fb8b36c22d152f54b99ab6451b4",
-    "FStringFlipTimeStampFastString": "2024-09-24T20:53:18.874Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:53:18.874Z"
+    "FStringFlagRepoGitHashFastString": "23a53a18e13054c13671661772cbaa52258f7bc2",
+    "DFStringFlagRepoGitHashDynamicString": "23a53a18e13054c13671661772cbaa52258f7bc2",
+    "FStringFlipTimeStampFastString": "2024-09-24T21:07:40.284Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T21:07:40.284Z"
 }

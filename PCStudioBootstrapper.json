@@ -138,8 +138,8 @@
     "FFlagWindowsMonitorAnalytics": true,
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
-    "FStringFlagRepoGitHashFastString": "521a4915829e1fb8b36c22d152f54b99ab6451b4",
-    "DFStringFlagRepoGitHashDynamicString": "521a4915829e1fb8b36c22d152f54b99ab6451b4",
-    "FStringFlipTimeStampFastString": "2024-09-24T20:53:18.874Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:53:18.874Z"
+    "FStringFlagRepoGitHashFastString": "dbfb2a9712585695e4bfed9b103b12dba68d623f",
+    "DFStringFlagRepoGitHashDynamicString": "dbfb2a9712585695e4bfed9b103b12dba68d623f",
+    "FStringFlipTimeStampFastString": "2024-09-24T21:08:56.673Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T21:08:56.673Z"
 }
