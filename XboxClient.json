@@ -7526,6 +7526,12 @@
     "FFlagScriptProfilerNoClientRepl": true,
     "FFlagDisableBulkPurchaseWhenNoItems": true,
     "DFFlagProfilerSmallerExportScope": true,
+    "DFFlagSimEnableBadMoverConstraintTelemetry_Rollout": "true;60;2024-09-24T20:14:41",
+    "DFStringProductionPointToV2WhiteList_Rollout": "SessionTracking,AudioWiringApiUsage,AutoSelectGuiInvoked,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver;30;2024-09-24T20:21:49",
+    "FFlagUWPNullCheckFrame_Rollout": "true;60;2024-09-24T20:30:49",
+    "FFlagUWPBetterJsonParsingInUpdateCheck_Rollout": "true;60;2024-09-24T20:30:55",
+    "FFlagFixGamepadCursorVisibility_Rollout": "true;60;2024-09-24T20:39:48",
+    "FFlagSimTelemetrizeSporadicFluidUsage2_Rollout": "true;60;2024-09-24T20:42:30",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7819,8 +7825,8 @@
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": true,
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": true,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "b2ced1a51583014b5c04a696b7358ae55a9d5485",
-    "DFStringFlagRepoGitHashDynamicString": "b2ced1a51583014b5c04a696b7358ae55a9d5485",
-    "FStringFlipTimeStampFastString": "2024-09-24T20:13:14.099Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:13:14.099Z"
+    "FStringFlagRepoGitHashFastString": "5ad8edb3b4361ac18cc99d3eac260780a6d27e86",
+    "DFStringFlagRepoGitHashDynamicString": "5ad8edb3b4361ac18cc99d3eac260780a6d27e86",
+    "FStringFlipTimeStampFastString": "2024-09-24T20:43:31.018Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:43:31.018Z"
 }
