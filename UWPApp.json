@@ -7512,7 +7512,12 @@
     "FFlagAXRemoveVerticalDrawerPadding": true,
     "FFlagRecordStartRaceFix2": true,
     "FFlagLuauFixCyclicTablesBlowingStack": true,
+    "DFIntRobloxTelemetryPointV2ProdTrafficPercent_Rollout": "5;60;2024-09-24T16:18:38",
     "AllowVideoPreRoll": true,
+    "FFlagInsertServiceDisableGetCollectionsBackend_Rollout": "true;60;2024-09-24T16:44:39",
+    "FFlagInsertServiceDisableGetBaseSetsBackend_Rollout": "true;60;2024-09-24T16:45:32",
+    "DFFlagPerformanceControlCheckForThrottleBeforeUpdatingTelemetry_Rollout": "true;60;2024-09-24T17:11:12",
+    "FFlagFixSearchLandingPageGameImpressionsInterface_Rollout": "true;60;2024-09-24T17:22:48",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -7703,8 +7708,9 @@
     "FFlagAXExtractIsAvatarWidgetHelper": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "9d0c2b64d4dad89dd615c52ff4c21be6393cb856",
-    "DFStringFlagRepoGitHashDynamicString": "9d0c2b64d4dad89dd615c52ff4c21be6393cb856",
-    "FStringFlipTimeStampFastString": "2024-09-24T01:02:34.523Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T01:02:34.523Z"
+    "FFlagUnifySessionTrackingReporting2_Rollout": "false;30;2024-09-24T17:30:56",
+    "FStringFlagRepoGitHashFastString": "db12466364f19808d5a0eeb65d58a91cc2ae952f",
+    "DFStringFlagRepoGitHashDynamicString": "db12466364f19808d5a0eeb65d58a91cc2ae952f",
+    "FStringFlipTimeStampFastString": "2024-09-24T17:42:18.339Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T17:42:18.339Z"
 }
