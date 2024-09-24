@@ -7518,9 +7518,6 @@
     "DFFlagPerformanceControlCheckForThrottleBeforeUpdatingTelemetry": true,
     "FFlagFixSearchLandingPageGameImpressionsInterface": true,
     "FFlagEnableSpendingSettingsDeeplinks": true,
-    "FFlagAddAdditionalButtonsProp_Rollout": "true;60;2024-09-24T19:20:15",
-    "FFlagAppChatConversationTimestampSmaller_Rollout": "true;60;2024-09-24T19:20:15",
-    "FFlagAppChatInExpStopCachingWideMode_Rollout": "true;60;2024-09-24T19:20:15",
     "FFlagMarketplaceServiceFixBulkPurchaseMockIds": true,
     "DFFlagModuleWeakenCatch_Rollout": "true;60;2024-09-24T19:54:45",
     "FFlagScriptProfilerNoClientRepl": true,
@@ -7532,6 +7529,10 @@
     "FFlagUWPBetterJsonParsingInUpdateCheck_Rollout": "true;60;2024-09-24T20:30:55",
     "FFlagFixGamepadCursorVisibility_Rollout": "true;60;2024-09-24T20:39:48",
     "FFlagSimTelemetrizeSporadicFluidUsage2_Rollout": "true;60;2024-09-24T20:42:30",
+    "FFlagAppChatReplaceWithCloseButton_Rollout": "true;60;2024-09-24T20:46:32",
+    "FFlagAddAdditionalButtonsProp": true,
+    "FFlagAppChatConversationTimestampSmaller": true,
+    "FFlagAppChatInExpStopCachingWideMode": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7723,8 +7724,8 @@
     "FFlagAXExtractIsAvatarWidgetHelper": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "5ad8edb3b4361ac18cc99d3eac260780a6d27e86",
-    "DFStringFlagRepoGitHashDynamicString": "5ad8edb3b4361ac18cc99d3eac260780a6d27e86",
-    "FStringFlipTimeStampFastString": "2024-09-24T20:43:31.018Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:43:31.018Z"
+    "FStringFlagRepoGitHashFastString": "521a4915829e1fb8b36c22d152f54b99ab6451b4",
+    "DFStringFlagRepoGitHashDynamicString": "521a4915829e1fb8b36c22d152f54b99ab6451b4",
+    "FStringFlipTimeStampFastString": "2024-09-24T20:53:18.874Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:53:18.874Z"
 }
