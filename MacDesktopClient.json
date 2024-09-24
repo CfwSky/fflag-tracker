@@ -7531,6 +7531,7 @@
     "FFlagUWPNullCheckFrame_Rollout": "true;60;2024-09-24T20:30:49",
     "FFlagUWPBetterJsonParsingInUpdateCheck_Rollout": "true;60;2024-09-24T20:30:55",
     "FFlagFixGamepadCursorVisibility_Rollout": "true;60;2024-09-24T20:39:48",
+    "AllowVideoPreRoll": true,
     "FFlagGpuGeometryManager10": true,
     "FFlagGpuGeometryManager11": true,
     "FFlagRenderEnableGlobalInstancingMetal": true,
@@ -7666,7 +7667,6 @@
     "FFlagUserSearchUpdateContextualInfo_v2": true,
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": true,
     "FFlagUserSearchPresenceHydration_v2": true,
-    "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -7981,8 +7981,8 @@
     "FFlagReportUITimePercentage": true,
     "FFlagEngineVoiceCullingExperiment": true,
     "FFlagDeprecateExtentsArray": true,
-    "FStringFlagRepoGitHashFastString": "04be5dc75cd30cf58ba29ce93dac1541890be6ee",
-    "DFStringFlagRepoGitHashDynamicString": "04be5dc75cd30cf58ba29ce93dac1541890be6ee",
-    "FStringFlipTimeStampFastString": "2024-09-24T20:40:43.508Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:40:43.508Z"
+    "FStringFlagRepoGitHashFastString": "5ad8edb3b4361ac18cc99d3eac260780a6d27e86",
+    "DFStringFlagRepoGitHashDynamicString": "5ad8edb3b4361ac18cc99d3eac260780a6d27e86",
+    "FStringFlipTimeStampFastString": "2024-09-24T20:43:31.018Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T20:43:31.018Z"
 }
