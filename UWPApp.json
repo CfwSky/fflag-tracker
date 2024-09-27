@@ -6688,7 +6688,6 @@
     "FFlagMultiStyleLink": true,
     "FFlagExplorerFixRename": true,
     "FFlagGrassLengthHarmony2": true,
-    "DFFlagPauseSurfaceControllerBeforeSwappingDataModel": true,
     "FFlagUseSizeInClipRect": true,
     "FFlagLuaAppRefactorExperienceInfoTable3": true,
     "FFlagReferredByPlayerId": true,
@@ -7601,6 +7600,11 @@
     "DFFlagSolverStateReplicatedOnly2_PlaceFilter": "false;6604198805;11814147110",
     "FFlagPromisifyVoiceRequests": true,
     "FFlagSTUDIO_CRASH_17823": true,
+    "FFlagSetEngineContextScopeInDataModelJob_Rollout": "true;30;2024-09-27T17:46:22",
+    "FFlagRemoveRobuxBalanceFromLandingPage_Rollout": "true;60;2024-09-27T17:46:59",
+    "DFFlagOpenCloudUrlPathStringInFlag_Rollout": "true;60;2024-09-27T17:48:03",
+    "DFFlagSolverStateReplicatedOnly2_Rollout": "false;60;2024-09-27T17:55:17",
+    "DFStringOpenCloudSupportedMethodNamesCsv_Rollout": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail;60;2024-09-27T17:56:23",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7791,8 +7795,8 @@
     "FFlagAXExtractIsAvatarWidgetHelper": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "2f9c163a782cbf785eb02adfe0d0eaedd50bf4f7",
-    "DFStringFlagRepoGitHashDynamicString": "2f9c163a782cbf785eb02adfe0d0eaedd50bf4f7",
-    "FStringFlipTimeStampFastString": "2024-09-27T17:46:37.397Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-27T17:46:37.397Z"
+    "FStringFlagRepoGitHashFastString": "73da884ae2de3f368b293b81405a3bd4ebe43fd3",
+    "DFStringFlagRepoGitHashDynamicString": "73da884ae2de3f368b293b81405a3bd4ebe43fd3",
+    "FStringFlipTimeStampFastString": "2024-09-27T17:57:10.720Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-27T17:57:10.720Z"
 }
