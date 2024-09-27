@@ -5728,7 +5728,7 @@
     "DFFlagTeleportThirdPartyPermissionCheckDisabled": true,
     "FFlagUseCachedAudibilityMeasurements_PlaceFilter": "false;13546288145",
     "FFlagStudioRendererWindowManager3": true,
-    "FFlagUseCachedAudibilityMeasurements": true,
+    "FFlagUseCachedAudibilityMeasurements": false,
     "FFlagStudioNoLegacyLockConstructingPlayersDataManager3": true,
     "FFlagExcessFmodAllocsTriggerOom": true,
     "FFlagFriendsCarouselLoadingEventPlatformSpecificity": true,
@@ -7597,8 +7597,10 @@
     "FFlagFixEmoteParserReadInvalidValue": true,
     "FFlagAuthRefactorConsoleDisclaimerText": false,
     "FFlagSessionGetSessionID": true,
-    "FFlagPromisifyVoiceRequests_Rollout": "true;60;2024-09-26T23:21:53",
     "DFFlagSolverStateReplicatedOnly2": true,
+    "DFFlagSolverStateReplicatedOnly2_PlaceFilter": "false;6604198805;11814147110",
+    "FFlagPromisifyVoiceRequests": true,
+    "FFlagSTUDIO_CRASH_17823": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7789,8 +7791,8 @@
     "FFlagAXExtractIsAvatarWidgetHelper": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "560a2a1e54538bf58d64e4c51fdf61a95ed7fd24",
-    "DFStringFlagRepoGitHashDynamicString": "560a2a1e54538bf58d64e4c51fdf61a95ed7fd24",
-    "FStringFlipTimeStampFastString": "2024-09-26T23:44:41.324Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-26T23:44:41.324Z"
+    "FStringFlagRepoGitHashFastString": "2f9c163a782cbf785eb02adfe0d0eaedd50bf4f7",
+    "DFStringFlagRepoGitHashDynamicString": "2f9c163a782cbf785eb02adfe0d0eaedd50bf4f7",
+    "FStringFlipTimeStampFastString": "2024-09-27T17:46:37.397Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-27T17:46:37.397Z"
 }
