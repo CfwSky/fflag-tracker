@@ -7902,10 +7902,10 @@
     "DFIntTeamCreatePlaceUploadSendCompressedRollout2HundredthPercent": 10000,
     "DFIntTeamCreateSaveCompressionFailureTelemetryThrottleHundredthsPercent": 10000,
     "FFlagAXHeadRefinementVisualFixes": true,
-    "FFlagAXToggleContinuousLoad1_Rollout": "true;60;2024-09-27T16:31:19",
     "FFlagFixItemListHasMoreItems_Rollout": "true;60;2024-09-27T17:45:32",
-    "FStringFlagRepoGitHashFastString": "73da884ae2de3f368b293b81405a3bd4ebe43fd3",
-    "DFStringFlagRepoGitHashDynamicString": "73da884ae2de3f368b293b81405a3bd4ebe43fd3",
-    "FStringFlipTimeStampFastString": "2024-09-27T17:57:10.720Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-27T17:57:10.720Z"
+    "FFlagAXToggleContinuousLoad1": true,
+    "FStringFlagRepoGitHashFastString": "11aae46c9e18820aa17e402a360aa998822192ce",
+    "DFStringFlagRepoGitHashDynamicString": "11aae46c9e18820aa17e402a360aa998822192ce",
+    "FStringFlipTimeStampFastString": "2024-09-27T18:09:26.827Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-27T18:09:26.827Z"
 }
