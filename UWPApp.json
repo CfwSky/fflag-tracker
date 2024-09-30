@@ -7604,6 +7604,10 @@
     "FFlagSetEngineContextScopeInDataModelJob": true,
     "DFFlagOpenCloudUrlPathStringInFlag": true,
     "FFlagRemoveRobuxBalanceFromLandingPage": true,
+    "FFlagUGCValidationFullBodyDownloadFailureInfo_Rollout": "true;60;2024-09-30T16:01:24",
+    "FFlagUGCValidationRemoveRotationCheck_Rollout": "true;60;2024-09-30T16:02:35",
+    "FFlagEnableRealtimeProtocolForAllV601_Rollout": "true;60;2024-09-30T16:03:57",
+    "DFIntVideoCMCDMaxUserAgentBytes_Rollout": "50;30;2024-09-30T16:25:48",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7794,8 +7798,9 @@
     "FFlagAXExtractIsAvatarWidgetHelper": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagSimLazyIslandUpdateAndRepack": true,
-    "FStringFlagRepoGitHashFastString": "2688ba07019f9f5db6096ae73da3225fd05935a8",
-    "DFStringFlagRepoGitHashDynamicString": "2688ba07019f9f5db6096ae73da3225fd05935a8",
-    "FStringFlipTimeStampFastString": "2024-09-27T20:17:40.787Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-27T20:17:40.787Z"
+    "FFlagFriendsCarouselUseFindFriendsOnDesktop_v1_Rollout": "true;60;2024-09-30T16:43:49",
+    "FStringFlagRepoGitHashFastString": "e7f9b6484577b4af02d64f58baf8b8196f87a7b2",
+    "DFStringFlagRepoGitHashDynamicString": "e7f9b6484577b4af02d64f58baf8b8196f87a7b2",
+    "FStringFlipTimeStampFastString": "2024-09-30T17:19:46.457Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-30T17:19:46.457Z"
 }
