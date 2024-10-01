@@ -134,13 +134,14 @@
     "DFIntTeamCreatePlaceUploadSendCompressedRollout2HundredthPercent": 10000,
     "DFIntTeamCreateSaveCompressionFailureTelemetryThrottleHundredthsPercent": 10000,
     "FFlagAXHeadRefinementVisualFixes": true,
+    "DFFlagCoreScriptTelemetry2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
-    "FStringFlagRepoGitHashFastString": "a54243899741c88a04c668a7aff23457ad9069be",
-    "DFStringFlagRepoGitHashDynamicString": "a54243899741c88a04c668a7aff23457ad9069be",
-    "FStringFlipTimeStampFastString": "2024-09-30T20:53:39.648Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-30T20:53:39.648Z"
+    "FStringFlagRepoGitHashFastString": "6a0ea83169e236d92a09093e2c04c394fa5b03d0",
+    "DFStringFlagRepoGitHashDynamicString": "6a0ea83169e236d92a09093e2c04c394fa5b03d0",
+    "FStringFlipTimeStampFastString": "2024-10-01T00:17:03.821Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-01T00:17:03.821Z"
 }
