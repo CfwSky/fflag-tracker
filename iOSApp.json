@@ -7701,6 +7701,7 @@
     "FFlagVoiceChatTeamTestMuteIconOutOfSyncFix": true,
     "DFFlagSimRemovedAssemblyCheckBeforeOverlapReport": true,
     "FFlagKeepTelemetryAliveForStudioLifetime_Rollout": "true;30;2024-10-02T22:27:53",
+    "FFlagAerodynamicsBetaFeature_Rollout": "false;60;2024-10-02T22:33:48",
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -8264,8 +8265,8 @@
     "FIntProfileContentPostCarouselPostLimit": 20,
     "FFlagEnableVisBugChecks27": true,
     "FFlagUniversalAppCsat4": false,
-    "FStringFlagRepoGitHashFastString": "b0a85774f51e25b016d5ea5f71e8647ff58cc249",
-    "DFStringFlagRepoGitHashDynamicString": "b0a85774f51e25b016d5ea5f71e8647ff58cc249",
-    "FStringFlipTimeStampFastString": "2024-10-02T22:31:14.103Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-02T22:31:14.103Z"
+    "FStringFlagRepoGitHashFastString": "eab921bba3894012226e1e091ceb14d009399c9a",
+    "DFStringFlagRepoGitHashDynamicString": "eab921bba3894012226e1e091ceb14d009399c9a",
+    "FStringFlipTimeStampFastString": "2024-10-02T22:36:07.742Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-02T22:36:07.742Z"
 }
