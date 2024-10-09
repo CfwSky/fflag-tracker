@@ -75,7 +75,7 @@
     "FFlagAXEnableSearchTelemetry": true,
     "FFlagAXFixSearchResultsBarSpacing1": true,
     "FFlagAXSearchRefactorForAnalytics": true,
-    "FFlagUseCatalogItemDetailsToResolveBundlePurchase": true,
+    "FFlagUseCatalogItemDetailsToResolveBundlePurchase": false,
     "FFlagWinInstallerReportStatusFileTelemetry": true,
     "DFFlagRandomNewSeedLimitReport": true,
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": 10000,
@@ -142,8 +142,9 @@
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
-    "FStringFlagRepoGitHashFastString": "fc0aa54aa167cf59c63f0baee63ee78f5e389b6e",
-    "DFStringFlagRepoGitHashDynamicString": "fc0aa54aa167cf59c63f0baee63ee78f5e389b6e",
-    "FStringFlipTimeStampFastString": "2024-10-08T17:38:10.233Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-08T17:38:10.233Z"
+    "FFlagNotificationPersonAddIcons": true,
+    "FStringFlagRepoGitHashFastString": "55d1a2267d69691533067a47411d5282e7f1024f",
+    "DFStringFlagRepoGitHashDynamicString": "55d1a2267d69691533067a47411d5282e7f1024f",
+    "FStringFlipTimeStampFastString": "2024-10-09T16:06:32.860Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-09T16:06:32.860Z"
 }
