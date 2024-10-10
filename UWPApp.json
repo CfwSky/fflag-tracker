@@ -7737,6 +7737,12 @@
     "FFlagAddFocusNavigationSession": true,
     "FFlagLuaAppRefactorLogoTray": true,
     "FFlagFixCentralOverlayFocusEvents": true,
+    "FFlagFixCullRadiusFlicker2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:06:57",
+    "FFlagAttenuationCurveEditorFixes_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:16:29",
+    "FFlagFCFixSmoothSkinning_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:16:58",
+    "DFFlagChatServiceCheckThirdPartyTextChatRestrictionStatus_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:18:50",
+    "FFlagLuaAppOptimizeSearchPage_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:25:47",
+    "FFlagStudioToolsManager_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:42:37",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -7934,8 +7940,8 @@
     "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
     "FFlagSendRenderFidelityTelemetry2": true,
     "FFlagDeprecateExtentsArray2": true,
-    "FStringFlagRepoGitHashFastString": "e093272fb972aab6081fe604aa4912091760d489",
-    "DFStringFlagRepoGitHashDynamicString": "e093272fb972aab6081fe604aa4912091760d489",
-    "FStringFlipTimeStampFastString": "2024-10-10T16:02:50.912Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-10T16:02:50.912Z"
+    "FStringFlagRepoGitHashFastString": "c6bc0333e3a540940fd479d6a7142d9efad269e2",
+    "DFStringFlagRepoGitHashDynamicString": "c6bc0333e3a540940fd479d6a7142d9efad269e2",
+    "FStringFlipTimeStampFastString": "2024-10-10T16:57:21.165Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-10T16:57:21.165Z"
 }

@@ -7737,6 +7737,12 @@
     "FFlagAddFocusNavigationSession": true,
     "FFlagLuaAppRefactorLogoTray": true,
     "FFlagFixCentralOverlayFocusEvents": true,
+    "FFlagFixCullRadiusFlicker2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:06:57",
+    "FFlagAttenuationCurveEditorFixes_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:16:29",
+    "FFlagFCFixSmoothSkinning_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:16:58",
+    "DFFlagChatServiceCheckThirdPartyTextChatRestrictionStatus_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:18:50",
+    "FFlagLuaAppOptimizeSearchPage_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:25:47",
+    "FFlagStudioToolsManager_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:42:37",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -8250,8 +8256,8 @@
     "DFFlagSystemUtilAndroidReturnCorrect64BitCPU": true,
     "FFlagPerformanceControlNewEffectModelIXP3": true,
     "FFlagEnableSchematizedInGameRobuxUpsellEvent2": true,
-    "FStringFlagRepoGitHashFastString": "86e0e441a8858faef0104a71b3b9141e00ff632c",
-    "DFStringFlagRepoGitHashDynamicString": "86e0e441a8858faef0104a71b3b9141e00ff632c",
-    "FStringFlipTimeStampFastString": "2024-10-10T08:07:19.750Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-10T08:07:19.750Z"
+    "FStringFlagRepoGitHashFastString": "bccb67e1c704920bdd76c512a3c4eae509f0e839",
+    "DFStringFlagRepoGitHashDynamicString": "bccb67e1c704920bdd76c512a3c4eae509f0e839",
+    "FStringFlipTimeStampFastString": "2024-10-10T16:56:13.647Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-10T16:56:13.647Z"
 }
