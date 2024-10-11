@@ -138,6 +138,8 @@
     "FFlagAXFixOutfitLoadingAfterPurchase": true,
     "FFlagAXFixHeadRefinementCounterName": true,
     "FFlagAXHeadRefinementPaddingFixes": true,
+    "FFlagAXHeadCategoryCombineEnabled3": true,
+    "FFlagMicroProfileGroupOverflowFix": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -151,8 +153,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "bccb67e1c704920bdd76c512a3c4eae509f0e839",
-    "DFStringFlagRepoGitHashDynamicString": "bccb67e1c704920bdd76c512a3c4eae509f0e839",
-    "FStringFlipTimeStampFastString": "2024-10-10T16:56:13.647Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-10T16:56:13.647Z"
+    "FStringFlagRepoGitHashFastString": "29c07ffd752740acd42db16cd27ecda80fd9cf65",
+    "DFStringFlagRepoGitHashDynamicString": "29c07ffd752740acd42db16cd27ecda80fd9cf65",
+    "FStringFlipTimeStampFastString": "2024-10-11T01:31:52.146Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T01:31:52.146Z"
 }
