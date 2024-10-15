@@ -144,6 +144,7 @@
     "FFlagForgotPasswordConsoleVR": true,
     "FFlagUseFaceFrontRotationForEmote": true,
     "FFlagAXFixItemListEquippedAssetCheckIssue": true,
+    "FFlagChatLineReportShowMostRecentHistory_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T19:43:27",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -157,8 +158,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "f02ea6b203d631626b0152177cd4e10c24d80630",
-    "DFStringFlagRepoGitHashDynamicString": "f02ea6b203d631626b0152177cd4e10c24d80630",
-    "FStringFlipTimeStampFastString": "2024-10-15T19:41:50.335Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T19:41:50.335Z"
+    "FStringFlagRepoGitHashFastString": "7848ce3b117406f7022fc9bd455163e4b825a301",
+    "DFStringFlagRepoGitHashDynamicString": "7848ce3b117406f7022fc9bd455163e4b825a301",
+    "FStringFlipTimeStampFastString": "2024-10-15T19:44:54.211Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T19:44:54.211Z"
 }
