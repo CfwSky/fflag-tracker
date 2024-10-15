@@ -7830,6 +7830,7 @@
     "FFlagEnableUnibarFtuxTooltips_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T20:13:31",
     "FFlagEnableMoreUniversalABTest3_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T20:13:41",
     "FFlagGetDependencyContentIdsEnabled": true,
+    "FFlagUserReenableLegacyChatForConsole_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T20:29:27",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -8025,7 +8026,7 @@
     "DFIntReportReplicatorStatsToInfluxHundredthsPercent": 100,
     "DFIntS2PhysicsSenderRate": 15,
     "DFIntSendJoinTimeDeltasToDiag_HundredthsPercentage": 100,
-    "DFIntSendRakNetStatsThrottle": 2,
+    "DFIntSendRakNetStatsThrottle": 1,
     "DFIntStreamJobMaxBufferHealthThresholdHundredths": 75,
     "DFIntStreamJobMaxBufferHealthThresholdHundredths_PlaceFilter": "50;1526666203",
     "DFIntStreamJobMinBufferHealthThresholdHundredths": 40,
@@ -8317,9 +8318,8 @@
     "DFFlagUseVisBugChecks_PlaceFilter": "true;7208091524;7902470429",
     "FFlagVoxelGridNew5_PlaceFilter": "true;14238596528;6153766069;14363263080;2414851778;14363264964;8284266336;314442505;6125809531;9346060856;15775630130;15272004567;13157638696;9233343468;12828227139;10529772199;12815054798;11838346571;7456800858;5626342417;5899156129;9501318975;4872321990;2693023319;8908228901;13950108612;14702923685;13694297022;2551991523;7180042682;15278089327;10771129745;15581054308;10515146389;13482468151;6104994594;8074961794",
     "DFFlagVisBugFixUnloadReadyMesh": true,
-    "DFIntSendRakNetStatsThrottle_Staged": "1;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:53:04",
-    "FStringFlagRepoGitHashFastString": "b7344bef2d3316c5d7533dec6fbf810d12e389ef",
-    "DFStringFlagRepoGitHashDynamicString": "b7344bef2d3316c5d7533dec6fbf810d12e389ef",
-    "FStringFlipTimeStampFastString": "2024-10-15T20:23:26.271Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T20:23:26.271Z"
+    "FStringFlagRepoGitHashFastString": "50b92063e7d5971b21d86bb457f7f0291454d8b8",
+    "DFStringFlagRepoGitHashDynamicString": "50b92063e7d5971b21d86bb457f7f0291454d8b8",
+    "FStringFlipTimeStampFastString": "2024-10-15T20:30:20.994Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T20:30:20.994Z"
 }
