@@ -7852,7 +7852,7 @@
     "DFIntHttpCacheCleanMinFilesRequired": 10000,
     "DFIntHttpSendStatsEveryXSeconds": 300,
     "DFIntMaxMissedWorldStepsRemembered": 16,
-    "DFIntReportReplicatorStatsToInfluxHundredthsPercent": 500,
+    "DFIntReportReplicatorStatsToInfluxHundredthsPercent": 100,
     "DFIntS2PhysicsSenderRate": 15,
     "DFIntSendJoinTimeDeltasToDiag_HundredthsPercentage": 100,
     "DFIntSendRakNetStatsThrottle": 2,
@@ -8018,11 +8018,10 @@
     "FFlagSendRenderFidelityTelemetry2": true,
     "FFlagDeprecateExtentsArray2": true,
     "DFFlagPerformanceControlPlannerExploreOnlyWithinTunableRange": true,
-    "DFIntReportReplicatorStatsToInfluxHundredthsPercent_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:08:37",
     "DFStringOverrideSendRakNetStatsThrottleCountries_Staged": "CN,10,JP,4,NO,4,FI,4,SE,4,NZ,4;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:44:35",
     "DFIntSendRakNetStatsThrottle_Staged": "1;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:53:04",
-    "FStringFlagRepoGitHashFastString": "a901b5422c665f9826960887a2a8efe55038328e",
-    "DFStringFlagRepoGitHashDynamicString": "a901b5422c665f9826960887a2a8efe55038328e",
-    "FStringFlipTimeStampFastString": "2024-10-15T19:31:53.968Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T19:31:53.968Z"
+    "FStringFlagRepoGitHashFastString": "f02ea6b203d631626b0152177cd4e10c24d80630",
+    "DFStringFlagRepoGitHashDynamicString": "f02ea6b203d631626b0152177cd4e10c24d80630",
+    "FStringFlipTimeStampFastString": "2024-10-15T19:41:50.335Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T19:41:50.335Z"
 }
