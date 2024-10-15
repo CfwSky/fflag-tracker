@@ -7808,7 +7808,6 @@
     "DFIntRobloxTelemetryCreationDBDeltaSave": 10000,
     "FFlagEmitterSharedNewEnabledVar2": true,
     "FFlagHttpClientFunctionalityForGcs2": true,
-    "DFFlagPerformanceControlPlannerExploreOnlyWithinTunableRange_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:23:30",
     "FIntAXHeadRefinementTooltipExpirationDurationDays_Staged": "365;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:31:42",
     "DFIntSendReplicatorStatsFacsOverrideES_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:33:54",
     "DFFlagChatLineAbuseReportAPIEnabled2": true,
@@ -7826,6 +7825,9 @@
     "DFFlagTeamCreateNewPlaceUploadUseNewFlow": true,
     "FFlagFixTouchGesturesOnSurfaceGuis_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T19:49:13",
     "FFlagRenderEnableGlobalInstancingMetal": true,
+    "DFFlagPerformanceControlPlannerExploreOnlyWithinTunableRange": true,
+    "FFlagStudioActionsBridge2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T19:58:30",
+    "FFlagPerformanceControlPlannerBreakOnlyOnFullStep3_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T20:01:28",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -8830,8 +8832,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
     "FFlagAudioEqualizerEditorSanitizeMidRange": true,
-    "FStringFlagRepoGitHashFastString": "2088d24c567a61683ede47f248322ae20a5a31be",
-    "DFStringFlagRepoGitHashDynamicString": "2088d24c567a61683ede47f248322ae20a5a31be",
-    "FStringFlipTimeStampFastString": "2024-10-15T19:53:12.021Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T19:53:12.021Z"
+    "FStringFlagRepoGitHashFastString": "a49cd3338bf179bd63ff34b018b1a5152fcda4db",
+    "DFStringFlagRepoGitHashDynamicString": "a49cd3338bf179bd63ff34b018b1a5152fcda4db",
+    "FStringFlipTimeStampFastString": "2024-10-15T20:03:04.197Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T20:03:04.197Z"
 }
