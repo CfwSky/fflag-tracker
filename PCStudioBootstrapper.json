@@ -142,7 +142,7 @@
     "FFlagMicroProfileGroupOverflowFix": true,
     "FFlagAXAvatarEditorBundleGearFix": true,
     "FFlagForgotPasswordConsoleVR": true,
-    "FFlagUseFaceFrontRotationForEmote_Rollout": "true;60;2024-10-14T21:40:52",
+    "FFlagUseFaceFrontRotationForEmote": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -154,8 +154,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "87d78694820d5e4a6fbc206e2fe46baa914fded9",
-    "DFStringFlagRepoGitHashDynamicString": "87d78694820d5e4a6fbc206e2fe46baa914fded9",
-    "FStringFlipTimeStampFastString": "2024-10-14T22:51:59.690Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-14T22:51:59.690Z"
+    "FStringFlagRepoGitHashFastString": "bc9c82ab9ad314509892a80931ccfd3f58563192",
+    "DFStringFlagRepoGitHashDynamicString": "bc9c82ab9ad314509892a80931ccfd3f58563192",
+    "FStringFlipTimeStampFastString": "2024-10-15T16:34:32.792Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T16:34:32.792Z"
 }
