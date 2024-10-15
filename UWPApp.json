@@ -7806,9 +7806,6 @@
     "FFlagCreationDBCompressRequest": true,
     "DFIntRobloxTelemetryCreationDBDeltaSerialization": 10000,
     "DFIntRobloxTelemetryCreationDBDeltaSave": 10000,
-    "FFlagStudioEnableInteractionTelemetry3_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T17:29:12",
-    "FFlagAssetAccessErrorMessageImprovements5_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T17:31:40",
-    "FFlagAssetAccessDialogListenToOnClosed_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T17:32:42",
     "FFlagOmniFeedChangeParserforDividerString_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T17:46:34",
     "FFlagEmitterSharedNewEnabledVar2": true,
     "FFlagUGCValidateLCCagesVerticesSimilarity_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T17:48:22",
@@ -7823,6 +7820,9 @@
     "DFIntClientStatsWithFacsBWPerHundPercent_Staged": "10;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:41:58",
     "FFlagGetDependencyContentIdsEnabled_Rollout": "true;60;2024-10-15T18:44:39",
     "FFlagCreationStorageChangesSerializationEnabled": true,
+    "FFlagStudioEnableInteractionTelemetry3": true,
+    "FFlagAssetAccessDialogListenToOnClosed": true,
+    "FFlagAssetAccessErrorMessageImprovements5": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -8021,8 +8021,8 @@
     "DFIntReportReplicatorStatsToInfluxHundredthsPercent_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:08:37",
     "DFStringOverrideSendRakNetStatsThrottleCountries_Staged": "CN,10,JP,4,NO,4,FI,4,SE,4,NZ,4;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:44:35",
     "DFIntSendRakNetStatsThrottle_Staged": "1;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T18:53:04",
-    "FStringFlagRepoGitHashFastString": "1c6f5ea8c5a7eb3377e4112a451e7b6bb6299254",
-    "DFStringFlagRepoGitHashDynamicString": "1c6f5ea8c5a7eb3377e4112a451e7b6bb6299254",
-    "FStringFlipTimeStampFastString": "2024-10-15T18:54:05.587Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T18:54:05.587Z"
+    "FStringFlagRepoGitHashFastString": "3db83423f9f5176884aeeae85667346f7ad1ce9a",
+    "DFStringFlagRepoGitHashDynamicString": "3db83423f9f5176884aeeae85667346f7ad1ce9a",
+    "FStringFlipTimeStampFastString": "2024-10-15T19:17:50.772Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T19:17:50.772Z"
 }
