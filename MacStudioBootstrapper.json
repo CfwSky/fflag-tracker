@@ -144,16 +144,16 @@
     "FFlagForgotPasswordConsoleVR": true,
     "FFlagUseFaceFrontRotationForEmote": true,
     "FFlagChatLineReportShowMostRecentHistory": true,
-    "FFlagAXDoNotSendAnalyticsNoItemType_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T18:40:33",
-    "FFlagAXFixToggleDefaultHeadAssetId_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T18:40:56",
+    "FFlagAXDoNotSendAnalyticsNoItemType": true,
+    "FFlagAXFixToggleDefaultHeadAssetId": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "775d6bbce0e4ee06ed2e8c4e2325e0d582621e9f",
-    "DFStringFlagRepoGitHashDynamicString": "775d6bbce0e4ee06ed2e8c4e2325e0d582621e9f",
-    "FStringFlipTimeStampFastString": "2024-10-18T18:55:41.186Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-18T18:55:41.186Z"
+    "FStringFlagRepoGitHashFastString": "f8e897e5b04d91208cca7095f8ef88b8d49d5375",
+    "DFStringFlagRepoGitHashDynamicString": "f8e897e5b04d91208cca7095f8ef88b8d49d5375",
+    "FStringFlipTimeStampFastString": "2024-10-18T21:07:53.242Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-18T21:07:53.242Z"
 }
